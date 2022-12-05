@@ -1,0 +1,1469 @@
+[
+  {
+    "DateTime": "2025-02-15T00:00:00+07:00",
+    "EpochDateTime": 1739552400,
+    "WeatherIcon": 33,
+    "IconPhrase": "Clear",
+    "HasPrecipitation": false,
+    "IsDaylight": false,
+    "Temperature": {
+      "Value": 80,
+      "Unit": "F",
+      "UnitType": 18
+    },
+    "RealFeelTemperature": {
+      "Value": 86,
+      "Unit": "F",
+      "UnitType": 18,
+      "Phrase": "Very Warm"
+    },
+    "RealFeelTemperatureShade": {
+      "Value": 86,
+      "Unit": "F",
+      "UnitType": 18,
+      "Phrase": "Very Warm"
+    },
+    "WetBulbTemperature": {
+      "Value": 76,
+      "Unit": "F",
+      "UnitType": 18
+    },
+    "WetBulbGlobeTemperature": {
+      "Value": 80,
+      "Unit": "F",
+      "UnitType": 18
+    },
+    "DewPoint": {
+      "Value": 75,
+      "Unit": "F",
+      "UnitType": 18
+    },
+    "Wind": {
+      "Speed": {
+        "Value": 9.2,
+        "Unit": "mi/h",
+        "UnitType": 9
+      },
+      "Direction": {
+        "Degrees": 199,
+        "Localized": "SSW",
+        "English": "SSW"
+      }
+    },
+    "WindGust": {
+      "Speed": {
+        "Value": 15,
+        "Unit": "mi/h",
+        "UnitType": 9
+      }
+    },
+    "RelativeHumidity": 83,
+    "IndoorRelativeHumidity": 83,
+    "Visibility": {
+      "Value": 10,
+      "Unit": "mi",
+      "UnitType": 2
+    },
+    "Ceiling": {
+      "Value": 30000,
+      "Unit": "ft",
+      "UnitType": 0
+    },
+    "UVIndex": 0,
+    "UVIndexText": "Low",
+    "PrecipitationProbability": 0,
+    "ThunderstormProbability": 0,
+    "RainProbability": 0,
+    "SnowProbability": 0,
+    "IceProbability": 0,
+    "TotalLiquid": {
+      "Value": 0,
+      "Unit": "in",
+      "UnitType": 1
+    },
+    "Rain": {
+      "Value": 0,
+      "Unit": "in",
+      "UnitType": 1
+    },
+    "Snow": {
+      "Value": 0,
+      "Unit": "in",
+      "UnitType": 1
+    },
+    "Ice": {
+      "Value": 0,
+      "Unit": "in",
+      "UnitType": 1
+    },
+    "CloudCover": 1,
+    "Evapotranspiration": {
+      "Value": 0,
+      "Unit": "in",
+      "UnitType": 1
+    },
+    "SolarIrradiance": {
+      "Value": 0,
+      "Unit": "W/m²",
+      "UnitType": 33
+    },
+    "AccuLumenBrightnessIndex": 0,
+    "MobileLink": "http://www.accuweather.com/en/th/mueang-samut-prakan/320620/hourly-weather-forecast/320620?day=2&hbhhour=0&lang=en-us",
+    "Link": "http://www.accuweather.com/en/th/mueang-samut-prakan/320620/hourly-weather-forecast/320620?day=2&hbhhour=0&lang=en-us"
+  },
+  {
+    "DateTime": "2025-02-15T01:00:00+07:00",
+    "EpochDateTime": 1739556000,
+    "WeatherIcon": 33,
+    "IconPhrase": "Clear",
+    "HasPrecipitation": false,
+    "IsDaylight": false,
+    "Temperature": {
+      "Value": 80,
+      "Unit": "F",
+      "UnitType": 18
+    },
+    "RealFeelTemperature": {
+      "Value": 86,
+      "Unit": "F",
+      "UnitType": 18,
+      "Phrase": "Very Warm"
+    },
+    "RealFeelTemperatureShade": {
+      "Value": 86,
+      "Unit": "F",
+      "UnitType": 18,
+      "Phrase": "Very Warm"
+    },
+    "WetBulbTemperature": {
+      "Value": 76,
+      "Unit": "F",
+      "UnitType": 18
+    },
+    "WetBulbGlobeTemperature": {
+      "Value": 79,
+      "Unit": "F",
+      "UnitType": 18
+    },
+    "DewPoint": {
+      "Value": 74,
+      "Unit": "F",
+      "UnitType": 18
+    },
+    "Wind": {
+      "Speed": {
+        "Value": 8.1,
+        "Unit": "mi/h",
+        "UnitType": 9
+      },
+      "Direction": {
+        "Degrees": 198,
+        "Localized": "SSW",
+        "English": "SSW"
+      }
+    },
+    "WindGust": {
+      "Speed": {
+        "Value": 13.8,
+        "Unit": "mi/h",
+        "UnitType": 9
+      }
+    },
+    "RelativeHumidity": 84,
+    "IndoorRelativeHumidity": 84,
+    "Visibility": {
+      "Value": 10,
+      "Unit": "mi",
+      "UnitType": 2
+    },
+    "Ceiling": {
+      "Value": 30000,
+      "Unit": "ft",
+      "UnitType": 0
+    },
+    "UVIndex": 0,
+    "UVIndexText": "Low",
+    "PrecipitationProbability": 0,
+    "ThunderstormProbability": 0,
+    "RainProbability": 0,
+    "SnowProbability": 0,
+    "IceProbability": 0,
+    "TotalLiquid": {
+      "Value": 0,
+      "Unit": "in",
+      "UnitType": 1
+    },
+    "Rain": {
+      "Value": 0,
+      "Unit": "in",
+      "UnitType": 1
+    },
+    "Snow": {
+      "Value": 0,
+      "Unit": "in",
+      "UnitType": 1
+    },
+    "Ice": {
+      "Value": 0,
+      "Unit": "in",
+      "UnitType": 1
+    },
+    "CloudCover": 0,
+    "Evapotranspiration": {
+      "Value": 0,
+      "Unit": "in",
+      "UnitType": 1
+    },
+    "SolarIrradiance": {
+      "Value": 0,
+      "Unit": "W/m²",
+      "UnitType": 33
+    },
+    "AccuLumenBrightnessIndex": 0,
+    "MobileLink": "http://www.accuweather.com/en/th/mueang-samut-prakan/320620/hourly-weather-forecast/320620?day=2&hbhhour=1&lang=en-us",
+    "Link": "http://www.accuweather.com/en/th/mueang-samut-prakan/320620/hourly-weather-forecast/320620?day=2&hbhhour=1&lang=en-us"
+  },
+  {
+    "DateTime": "2025-02-15T02:00:00+07:00",
+    "EpochDateTime": 1739559600,
+    "WeatherIcon": 34,
+    "IconPhrase": "Mostly clear",
+    "HasPrecipitation": false,
+    "IsDaylight": false,
+    "Temperature": {
+      "Value": 79,
+      "Unit": "F",
+      "UnitType": 18
+    },
+    "RealFeelTemperature": {
+      "Value": 86,
+      "Unit": "F",
+      "UnitType": 18,
+      "Phrase": "Very Warm"
+    },
+    "RealFeelTemperatureShade": {
+      "Value": 86,
+      "Unit": "F",
+      "UnitType": 18,
+      "Phrase": "Very Warm"
+    },
+    "WetBulbTemperature": {
+      "Value": 76,
+      "Unit": "F",
+      "UnitType": 18
+    },
+    "WetBulbGlobeTemperature": {
+      "Value": 79,
+      "Unit": "F",
+      "UnitType": 18
+    },
+    "DewPoint": {
+      "Value": 74,
+      "Unit": "F",
+      "UnitType": 18
+    },
+    "Wind": {
+      "Speed": {
+        "Value": 6.9,
+        "Unit": "mi/h",
+        "UnitType": 9
+      },
+      "Direction": {
+        "Degrees": 191,
+        "Localized": "S",
+        "English": "S"
+      }
+    },
+    "WindGust": {
+      "Speed": {
+        "Value": 11.5,
+        "Unit": "mi/h",
+        "UnitType": 9
+      }
+    },
+    "RelativeHumidity": 86,
+    "IndoorRelativeHumidity": 86,
+    "Visibility": {
+      "Value": 10,
+      "Unit": "mi",
+      "UnitType": 2
+    },
+    "Ceiling": {
+      "Value": 30000,
+      "Unit": "ft",
+      "UnitType": 0
+    },
+    "UVIndex": 0,
+    "UVIndexText": "Low",
+    "PrecipitationProbability": 0,
+    "ThunderstormProbability": 0,
+    "RainProbability": 0,
+    "SnowProbability": 0,
+    "IceProbability": 0,
+    "TotalLiquid": {
+      "Value": 0,
+      "Unit": "in",
+      "UnitType": 1
+    },
+    "Rain": {
+      "Value": 0,
+      "Unit": "in",
+      "UnitType": 1
+    },
+    "Snow": {
+      "Value": 0,
+      "Unit": "in",
+      "UnitType": 1
+    },
+    "Ice": {
+      "Value": 0,
+      "Unit": "in",
+      "UnitType": 1
+    },
+    "CloudCover": 29,
+    "Evapotranspiration": {
+      "Value": 0,
+      "Unit": "in",
+      "UnitType": 1
+    },
+    "SolarIrradiance": {
+      "Value": 0,
+      "Unit": "W/m²",
+      "UnitType": 33
+    },
+    "AccuLumenBrightnessIndex": 0,
+    "MobileLink": "http://www.accuweather.com/en/th/mueang-samut-prakan/320620/hourly-weather-forecast/320620?day=2&hbhhour=2&lang=en-us",
+    "Link": "http://www.accuweather.com/en/th/mueang-samut-prakan/320620/hourly-weather-forecast/320620?day=2&hbhhour=2&lang=en-us"
+  },
+  {
+    "DateTime": "2025-02-15T03:00:00+07:00",
+    "EpochDateTime": 1739563200,
+    "WeatherIcon": 36,
+    "IconPhrase": "Intermittent clouds",
+    "HasPrecipitation": false,
+    "IsDaylight": false,
+    "Temperature": {
+      "Value": 78,
+      "Unit": "F",
+      "UnitType": 18
+    },
+    "RealFeelTemperature": {
+      "Value": 85,
+      "Unit": "F",
+      "UnitType": 18,
+      "Phrase": "Very Warm"
+    },
+    "RealFeelTemperatureShade": {
+      "Value": 85,
+      "Unit": "F",
+      "UnitType": 18,
+      "Phrase": "Very Warm"
+    },
+    "WetBulbTemperature": {
+      "Value": 76,
+      "Unit": "F",
+      "UnitType": 18
+    },
+    "WetBulbGlobeTemperature": {
+      "Value": 79,
+      "Unit": "F",
+      "UnitType": 18
+    },
+    "DewPoint": {
+      "Value": 74,
+      "Unit": "F",
+      "UnitType": 18
+    },
+    "Wind": {
+      "Speed": {
+        "Value": 6.9,
+        "Unit": "mi/h",
+        "UnitType": 9
+      },
+      "Direction": {
+        "Degrees": 182,
+        "Localized": "S",
+        "English": "S"
+      }
+    },
+    "WindGust": {
+      "Speed": {
+        "Value": 11.5,
+        "Unit": "mi/h",
+        "UnitType": 9
+      }
+    },
+    "RelativeHumidity": 87,
+    "IndoorRelativeHumidity": 87,
+    "Visibility": {
+      "Value": 10,
+      "Unit": "mi",
+      "UnitType": 2
+    },
+    "Ceiling": {
+      "Value": 30000,
+      "Unit": "ft",
+      "UnitType": 0
+    },
+    "UVIndex": 0,
+    "UVIndexText": "Low",
+    "PrecipitationProbability": 0,
+    "ThunderstormProbability": 0,
+    "RainProbability": 0,
+    "SnowProbability": 0,
+    "IceProbability": 0,
+    "TotalLiquid": {
+      "Value": 0,
+      "Unit": "in",
+      "UnitType": 1
+    },
+    "Rain": {
+      "Value": 0,
+      "Unit": "in",
+      "UnitType": 1
+    },
+    "Snow": {
+      "Value": 0,
+      "Unit": "in",
+      "UnitType": 1
+    },
+    "Ice": {
+      "Value": 0,
+      "Unit": "in",
+      "UnitType": 1
+    },
+    "CloudCover": 57,
+    "Evapotranspiration": {
+      "Value": 0,
+      "Unit": "in",
+      "UnitType": 1
+    },
+    "SolarIrradiance": {
+      "Value": 0,
+      "Unit": "W/m²",
+      "UnitType": 33
+    },
+    "AccuLumenBrightnessIndex": 0,
+    "MobileLink": "http://www.accuweather.com/en/th/mueang-samut-prakan/320620/hourly-weather-forecast/320620?day=2&hbhhour=3&lang=en-us",
+    "Link": "http://www.accuweather.com/en/th/mueang-samut-prakan/320620/hourly-weather-forecast/320620?day=2&hbhhour=3&lang=en-us"
+  },
+  {
+    "DateTime": "2025-02-15T04:00:00+07:00",
+    "EpochDateTime": 1739566800,
+    "WeatherIcon": 38,
+    "IconPhrase": "Mostly cloudy",
+    "HasPrecipitation": false,
+    "IsDaylight": false,
+    "Temperature": {
+      "Value": 78,
+      "Unit": "F",
+      "UnitType": 18
+    },
+    "RealFeelTemperature": {
+      "Value": 85,
+      "Unit": "F",
+      "UnitType": 18,
+      "Phrase": "Very Warm"
+    },
+    "RealFeelTemperatureShade": {
+      "Value": 85,
+      "Unit": "F",
+      "UnitType": 18,
+      "Phrase": "Very Warm"
+    },
+    "WetBulbTemperature": {
+      "Value": 76,
+      "Unit": "F",
+      "UnitType": 18
+    },
+    "WetBulbGlobeTemperature": {
+      "Value": 77,
+      "Unit": "F",
+      "UnitType": 18
+    },
+    "DewPoint": {
+      "Value": 74,
+      "Unit": "F",
+      "UnitType": 18
+    },
+    "Wind": {
+      "Speed": {
+        "Value": 5.8,
+        "Unit": "mi/h",
+        "UnitType": 9
+      },
+      "Direction": {
+        "Degrees": 173,
+        "Localized": "S",
+        "English": "S"
+      }
+    },
+    "WindGust": {
+      "Speed": {
+        "Value": 11.5,
+        "Unit": "mi/h",
+        "UnitType": 9
+      }
+    },
+    "RelativeHumidity": 90,
+    "IndoorRelativeHumidity": 90,
+    "Visibility": {
+      "Value": 10,
+      "Unit": "mi",
+      "UnitType": 2
+    },
+    "Ceiling": {
+      "Value": 30000,
+      "Unit": "ft",
+      "UnitType": 0
+    },
+    "UVIndex": 0,
+    "UVIndexText": "Low",
+    "PrecipitationProbability": 0,
+    "ThunderstormProbability": 0,
+    "RainProbability": 0,
+    "SnowProbability": 0,
+    "IceProbability": 0,
+    "TotalLiquid": {
+      "Value": 0,
+      "Unit": "in",
+      "UnitType": 1
+    },
+    "Rain": {
+      "Value": 0,
+      "Unit": "in",
+      "UnitType": 1
+    },
+    "Snow": {
+      "Value": 0,
+      "Unit": "in",
+      "UnitType": 1
+    },
+    "Ice": {
+      "Value": 0,
+      "Unit": "in",
+      "UnitType": 1
+    },
+    "CloudCover": 85,
+    "Evapotranspiration": {
+      "Value": 0,
+      "Unit": "in",
+      "UnitType": 1
+    },
+    "SolarIrradiance": {
+      "Value": 0,
+      "Unit": "W/m²",
+      "UnitType": 33
+    },
+    "AccuLumenBrightnessIndex": 0,
+    "MobileLink": "http://www.accuweather.com/en/th/mueang-samut-prakan/320620/hourly-weather-forecast/320620?day=2&hbhhour=4&lang=en-us",
+    "Link": "http://www.accuweather.com/en/th/mueang-samut-prakan/320620/hourly-weather-forecast/320620?day=2&hbhhour=4&lang=en-us"
+  },
+  {
+    "DateTime": "2025-02-15T05:00:00+07:00",
+    "EpochDateTime": 1739570400,
+    "WeatherIcon": 38,
+    "IconPhrase": "Mostly cloudy",
+    "HasPrecipitation": false,
+    "IsDaylight": false,
+    "Temperature": {
+      "Value": 77,
+      "Unit": "F",
+      "UnitType": 18
+    },
+    "RealFeelTemperature": {
+      "Value": 84,
+      "Unit": "F",
+      "UnitType": 18,
+      "Phrase": "Very Warm"
+    },
+    "RealFeelTemperatureShade": {
+      "Value": 84,
+      "Unit": "F",
+      "UnitType": 18,
+      "Phrase": "Very Warm"
+    },
+    "WetBulbTemperature": {
+      "Value": 75,
+      "Unit": "F",
+      "UnitType": 18
+    },
+    "WetBulbGlobeTemperature": {
+      "Value": 77,
+      "Unit": "F",
+      "UnitType": 18
+    },
+    "DewPoint": {
+      "Value": 74,
+      "Unit": "F",
+      "UnitType": 18
+    },
+    "Wind": {
+      "Speed": {
+        "Value": 5.8,
+        "Unit": "mi/h",
+        "UnitType": 9
+      },
+      "Direction": {
+        "Degrees": 168,
+        "Localized": "SSE",
+        "English": "SSE"
+      }
+    },
+    "WindGust": {
+      "Speed": {
+        "Value": 11.5,
+        "Unit": "mi/h",
+        "UnitType": 9
+      }
+    },
+    "RelativeHumidity": 91,
+    "IndoorRelativeHumidity": 91,
+    "Visibility": {
+      "Value": 10,
+      "Unit": "mi",
+      "UnitType": 2
+    },
+    "Ceiling": {
+      "Value": 30000,
+      "Unit": "ft",
+      "UnitType": 0
+    },
+    "UVIndex": 0,
+    "UVIndexText": "Low",
+    "PrecipitationProbability": 0,
+    "ThunderstormProbability": 0,
+    "RainProbability": 0,
+    "SnowProbability": 0,
+    "IceProbability": 0,
+    "TotalLiquid": {
+      "Value": 0,
+      "Unit": "in",
+      "UnitType": 1
+    },
+    "Rain": {
+      "Value": 0,
+      "Unit": "in",
+      "UnitType": 1
+    },
+    "Snow": {
+      "Value": 0,
+      "Unit": "in",
+      "UnitType": 1
+    },
+    "Ice": {
+      "Value": 0,
+      "Unit": "in",
+      "UnitType": 1
+    },
+    "CloudCover": 76,
+    "Evapotranspiration": {
+      "Value": 0,
+      "Unit": "in",
+      "UnitType": 1
+    },
+    "SolarIrradiance": {
+      "Value": 0,
+      "Unit": "W/m²",
+      "UnitType": 33
+    },
+    "AccuLumenBrightnessIndex": 0,
+    "MobileLink": "http://www.accuweather.com/en/th/mueang-samut-prakan/320620/hourly-weather-forecast/320620?day=2&hbhhour=5&lang=en-us",
+    "Link": "http://www.accuweather.com/en/th/mueang-samut-prakan/320620/hourly-weather-forecast/320620?day=2&hbhhour=5&lang=en-us"
+  },
+  null,
+  null,
+  null,
+  null,
+  null,
+  null,
+  null,
+  null,
+  null,
+  null,
+  null,
+  {
+    "DateTime": "2025-02-14T17:00:00+07:00",
+    "EpochDateTime": 1739527200,
+    "WeatherIcon": 3,
+    "IconPhrase": "Partly sunny",
+    "HasPrecipitation": false,
+    "IsDaylight": true,
+    "Temperature": {
+      "Value": 92,
+      "Unit": "F",
+      "UnitType": 18
+    },
+    "RealFeelTemperature": {
+      "Value": 92,
+      "Unit": "F",
+      "UnitType": 18,
+      "Phrase": "Hot"
+    },
+    "RealFeelTemperatureShade": {
+      "Value": 92,
+      "Unit": "F",
+      "UnitType": 18,
+      "Phrase": "Hot"
+    },
+    "WetBulbTemperature": {
+      "Value": 74,
+      "Unit": "F",
+      "UnitType": 18
+    },
+    "WetBulbGlobeTemperature": {
+      "Value": 83,
+      "Unit": "F",
+      "UnitType": 18
+    },
+    "DewPoint": {
+      "Value": 66,
+      "Unit": "F",
+      "UnitType": 18
+    },
+    "Wind": {
+      "Speed": {
+        "Value": 9.2,
+        "Unit": "mi/h",
+        "UnitType": 9
+      },
+      "Direction": {
+        "Degrees": 173,
+        "Localized": "S",
+        "English": "S"
+      }
+    },
+    "WindGust": {
+      "Speed": {
+        "Value": 18.4,
+        "Unit": "mi/h",
+        "UnitType": 9
+      }
+    },
+    "RelativeHumidity": 42,
+    "IndoorRelativeHumidity": 42,
+    "Visibility": {
+      "Value": 10,
+      "Unit": "mi",
+      "UnitType": 2
+    },
+    "Ceiling": {
+      "Value": 30000,
+      "Unit": "ft",
+      "UnitType": 0
+    },
+    "UVIndex": 1,
+    "UVIndexText": "Low",
+    "PrecipitationProbability": 0,
+    "ThunderstormProbability": 0,
+    "RainProbability": 0,
+    "SnowProbability": 0,
+    "IceProbability": 0,
+    "TotalLiquid": {
+      "Value": 0,
+      "Unit": "in",
+      "UnitType": 1
+    },
+    "Rain": {
+      "Value": 0,
+      "Unit": "in",
+      "UnitType": 1
+    },
+    "Snow": {
+      "Value": 0,
+      "Unit": "in",
+      "UnitType": 1
+    },
+    "Ice": {
+      "Value": 0,
+      "Unit": "in",
+      "UnitType": 1
+    },
+    "CloudCover": 35,
+    "Evapotranspiration": {
+      "Value": 0.01,
+      "Unit": "in",
+      "UnitType": 1
+    },
+    "SolarIrradiance": {
+      "Value": 200.3,
+      "Unit": "W/m²",
+      "UnitType": 33
+    },
+    "AccuLumenBrightnessIndex": 4,
+    "MobileLink": "http://www.accuweather.com/en/th/mueang-samut-prakan/320620/hourly-weather-forecast/320620?day=1&hbhhour=17&lang=en-us",
+    "Link": "http://www.accuweather.com/en/th/mueang-samut-prakan/320620/hourly-weather-forecast/320620?day=1&hbhhour=17&lang=en-us"
+  },
+  {
+    "DateTime": "2025-02-14T18:00:00+07:00",
+    "EpochDateTime": 1739530800,
+    "WeatherIcon": 2,
+    "IconPhrase": "Mostly sunny",
+    "HasPrecipitation": false,
+    "IsDaylight": true,
+    "Temperature": {
+      "Value": 90,
+      "Unit": "F",
+      "UnitType": 18
+    },
+    "RealFeelTemperature": {
+      "Value": 90,
+      "Unit": "F",
+      "UnitType": 18,
+      "Phrase": "Hot"
+    },
+    "RealFeelTemperatureShade": {
+      "Value": 90,
+      "Unit": "F",
+      "UnitType": 18,
+      "Phrase": "Hot"
+    },
+    "WetBulbTemperature": {
+      "Value": 75,
+      "Unit": "F",
+      "UnitType": 18
+    },
+    "WetBulbGlobeTemperature": {
+      "Value": 82,
+      "Unit": "F",
+      "UnitType": 18
+    },
+    "DewPoint": {
+      "Value": 68,
+      "Unit": "F",
+      "UnitType": 18
+    },
+    "Wind": {
+      "Speed": {
+        "Value": 9.2,
+        "Unit": "mi/h",
+        "UnitType": 9
+      },
+      "Direction": {
+        "Degrees": 161,
+        "Localized": "SSE",
+        "English": "SSE"
+      }
+    },
+    "WindGust": {
+      "Speed": {
+        "Value": 16.1,
+        "Unit": "mi/h",
+        "UnitType": 9
+      }
+    },
+    "RelativeHumidity": 48,
+    "IndoorRelativeHumidity": 48,
+    "Visibility": {
+      "Value": 10,
+      "Unit": "mi",
+      "UnitType": 2
+    },
+    "Ceiling": {
+      "Value": 30000,
+      "Unit": "ft",
+      "UnitType": 0
+    },
+    "UVIndex": 0,
+    "UVIndexText": "Low",
+    "PrecipitationProbability": 0,
+    "ThunderstormProbability": 0,
+    "RainProbability": 0,
+    "SnowProbability": 0,
+    "IceProbability": 0,
+    "TotalLiquid": {
+      "Value": 0,
+      "Unit": "in",
+      "UnitType": 1
+    },
+    "Rain": {
+      "Value": 0,
+      "Unit": "in",
+      "UnitType": 1
+    },
+    "Snow": {
+      "Value": 0,
+      "Unit": "in",
+      "UnitType": 1
+    },
+    "Ice": {
+      "Value": 0,
+      "Unit": "in",
+      "UnitType": 1
+    },
+    "CloudCover": 18,
+    "Evapotranspiration": {
+      "Value": 0.01,
+      "Unit": "in",
+      "UnitType": 1
+    },
+    "SolarIrradiance": {
+      "Value": 0,
+      "Unit": "W/m²",
+      "UnitType": 33
+    },
+    "AccuLumenBrightnessIndex": 0,
+    "MobileLink": "http://www.accuweather.com/en/th/mueang-samut-prakan/320620/hourly-weather-forecast/320620?day=1&hbhhour=18&lang=en-us",
+    "Link": "http://www.accuweather.com/en/th/mueang-samut-prakan/320620/hourly-weather-forecast/320620?day=1&hbhhour=18&lang=en-us"
+  },
+  {
+    "DateTime": "2025-02-14T19:00:00+07:00",
+    "EpochDateTime": 1739534400,
+    "WeatherIcon": 33,
+    "IconPhrase": "Clear",
+    "HasPrecipitation": false,
+    "IsDaylight": false,
+    "Temperature": {
+      "Value": 86,
+      "Unit": "F",
+      "UnitType": 18
+    },
+    "RealFeelTemperature": {
+      "Value": 87,
+      "Unit": "F",
+      "UnitType": 18,
+      "Phrase": "Very Warm"
+    },
+    "RealFeelTemperatureShade": {
+      "Value": 87,
+      "Unit": "F",
+      "UnitType": 18,
+      "Phrase": "Very Warm"
+    },
+    "WetBulbTemperature": {
+      "Value": 74,
+      "Unit": "F",
+      "UnitType": 18
+    },
+    "WetBulbGlobeTemperature": {
+      "Value": 81,
+      "Unit": "F",
+      "UnitType": 18
+    },
+    "DewPoint": {
+      "Value": 69,
+      "Unit": "F",
+      "UnitType": 18
+    },
+    "Wind": {
+      "Speed": {
+        "Value": 9.2,
+        "Unit": "mi/h",
+        "UnitType": 9
+      },
+      "Direction": {
+        "Degrees": 160,
+        "Localized": "SSE",
+        "English": "SSE"
+      }
+    },
+    "WindGust": {
+      "Speed": {
+        "Value": 16.1,
+        "Unit": "mi/h",
+        "UnitType": 9
+      }
+    },
+    "RelativeHumidity": 56,
+    "IndoorRelativeHumidity": 56,
+    "Visibility": {
+      "Value": 10,
+      "Unit": "mi",
+      "UnitType": 2
+    },
+    "Ceiling": {
+      "Value": 30000,
+      "Unit": "ft",
+      "UnitType": 0
+    },
+    "UVIndex": 0,
+    "UVIndexText": "Low",
+    "PrecipitationProbability": 0,
+    "ThunderstormProbability": 0,
+    "RainProbability": 0,
+    "SnowProbability": 0,
+    "IceProbability": 0,
+    "TotalLiquid": {
+      "Value": 0,
+      "Unit": "in",
+      "UnitType": 1
+    },
+    "Rain": {
+      "Value": 0,
+      "Unit": "in",
+      "UnitType": 1
+    },
+    "Snow": {
+      "Value": 0,
+      "Unit": "in",
+      "UnitType": 1
+    },
+    "Ice": {
+      "Value": 0,
+      "Unit": "in",
+      "UnitType": 1
+    },
+    "CloudCover": 0,
+    "Evapotranspiration": {
+      "Value": 0,
+      "Unit": "in",
+      "UnitType": 1
+    },
+    "SolarIrradiance": {
+      "Value": 0,
+      "Unit": "W/m²",
+      "UnitType": 33
+    },
+    "AccuLumenBrightnessIndex": 0,
+    "MobileLink": "http://www.accuweather.com/en/th/mueang-samut-prakan/320620/hourly-weather-forecast/320620?day=1&hbhhour=19&lang=en-us",
+    "Link": "http://www.accuweather.com/en/th/mueang-samut-prakan/320620/hourly-weather-forecast/320620?day=1&hbhhour=19&lang=en-us"
+  },
+  {
+    "DateTime": "2025-02-14T20:00:00+07:00",
+    "EpochDateTime": 1739538000,
+    "WeatherIcon": 33,
+    "IconPhrase": "Clear",
+    "HasPrecipitation": false,
+    "IsDaylight": false,
+    "Temperature": {
+      "Value": 84,
+      "Unit": "F",
+      "UnitType": 18
+    },
+    "RealFeelTemperature": {
+      "Value": 86,
+      "Unit": "F",
+      "UnitType": 18,
+      "Phrase": "Very Warm"
+    },
+    "RealFeelTemperatureShade": {
+      "Value": 86,
+      "Unit": "F",
+      "UnitType": 18,
+      "Phrase": "Very Warm"
+    },
+    "WetBulbTemperature": {
+      "Value": 75,
+      "Unit": "F",
+      "UnitType": 18
+    },
+    "WetBulbGlobeTemperature": {
+      "Value": 80,
+      "Unit": "F",
+      "UnitType": 18
+    },
+    "DewPoint": {
+      "Value": 71,
+      "Unit": "F",
+      "UnitType": 18
+    },
+    "Wind": {
+      "Speed": {
+        "Value": 9.2,
+        "Unit": "mi/h",
+        "UnitType": 9
+      },
+      "Direction": {
+        "Degrees": 175,
+        "Localized": "S",
+        "English": "S"
+      }
+    },
+    "WindGust": {
+      "Speed": {
+        "Value": 15,
+        "Unit": "mi/h",
+        "UnitType": 9
+      }
+    },
+    "RelativeHumidity": 65,
+    "IndoorRelativeHumidity": 65,
+    "Visibility": {
+      "Value": 10,
+      "Unit": "mi",
+      "UnitType": 2
+    },
+    "Ceiling": {
+      "Value": 30000,
+      "Unit": "ft",
+      "UnitType": 0
+    },
+    "UVIndex": 0,
+    "UVIndexText": "Low",
+    "PrecipitationProbability": 0,
+    "ThunderstormProbability": 0,
+    "RainProbability": 0,
+    "SnowProbability": 0,
+    "IceProbability": 0,
+    "TotalLiquid": {
+      "Value": 0,
+      "Unit": "in",
+      "UnitType": 1
+    },
+    "Rain": {
+      "Value": 0,
+      "Unit": "in",
+      "UnitType": 1
+    },
+    "Snow": {
+      "Value": 0,
+      "Unit": "in",
+      "UnitType": 1
+    },
+    "Ice": {
+      "Value": 0,
+      "Unit": "in",
+      "UnitType": 1
+    },
+    "CloudCover": 0,
+    "Evapotranspiration": {
+      "Value": 0,
+      "Unit": "in",
+      "UnitType": 1
+    },
+    "SolarIrradiance": {
+      "Value": 0,
+      "Unit": "W/m²",
+      "UnitType": 33
+    },
+    "AccuLumenBrightnessIndex": 0,
+    "MobileLink": "http://www.accuweather.com/en/th/mueang-samut-prakan/320620/hourly-weather-forecast/320620?day=1&hbhhour=20&lang=en-us",
+    "Link": "http://www.accuweather.com/en/th/mueang-samut-prakan/320620/hourly-weather-forecast/320620?day=1&hbhhour=20&lang=en-us"
+  },
+  {
+    "DateTime": "2025-02-14T21:00:00+07:00",
+    "EpochDateTime": 1739541600,
+    "WeatherIcon": 33,
+    "IconPhrase": "Clear",
+    "HasPrecipitation": false,
+    "IsDaylight": false,
+    "Temperature": {
+      "Value": 82,
+      "Unit": "F",
+      "UnitType": 18
+    },
+    "RealFeelTemperature": {
+      "Value": 87,
+      "Unit": "F",
+      "UnitType": 18,
+      "Phrase": "Very Warm"
+    },
+    "RealFeelTemperatureShade": {
+      "Value": 87,
+      "Unit": "F",
+      "UnitType": 18,
+      "Phrase": "Very Warm"
+    },
+    "WetBulbTemperature": {
+      "Value": 76,
+      "Unit": "F",
+      "UnitType": 18
+    },
+    "WetBulbGlobeTemperature": {
+      "Value": 80,
+      "Unit": "F",
+      "UnitType": 18
+    },
+    "DewPoint": {
+      "Value": 73,
+      "Unit": "F",
+      "UnitType": 18
+    },
+    "Wind": {
+      "Speed": {
+        "Value": 10.4,
+        "Unit": "mi/h",
+        "UnitType": 9
+      },
+      "Direction": {
+        "Degrees": 191,
+        "Localized": "S",
+        "English": "S"
+      }
+    },
+    "WindGust": {
+      "Speed": {
+        "Value": 15,
+        "Unit": "mi/h",
+        "UnitType": 9
+      }
+    },
+    "RelativeHumidity": 74,
+    "IndoorRelativeHumidity": 74,
+    "Visibility": {
+      "Value": 10,
+      "Unit": "mi",
+      "UnitType": 2
+    },
+    "Ceiling": {
+      "Value": 30000,
+      "Unit": "ft",
+      "UnitType": 0
+    },
+    "UVIndex": 0,
+    "UVIndexText": "Low",
+    "PrecipitationProbability": 0,
+    "ThunderstormProbability": 0,
+    "RainProbability": 0,
+    "SnowProbability": 0,
+    "IceProbability": 0,
+    "TotalLiquid": {
+      "Value": 0,
+      "Unit": "in",
+      "UnitType": 1
+    },
+    "Rain": {
+      "Value": 0,
+      "Unit": "in",
+      "UnitType": 1
+    },
+    "Snow": {
+      "Value": 0,
+      "Unit": "in",
+      "UnitType": 1
+    },
+    "Ice": {
+      "Value": 0,
+      "Unit": "in",
+      "UnitType": 1
+    },
+    "CloudCover": 1,
+    "Evapotranspiration": {
+      "Value": 0,
+      "Unit": "in",
+      "UnitType": 1
+    },
+    "SolarIrradiance": {
+      "Value": 0,
+      "Unit": "W/m²",
+      "UnitType": 33
+    },
+    "AccuLumenBrightnessIndex": 0,
+    "MobileLink": "http://www.accuweather.com/en/th/mueang-samut-prakan/320620/hourly-weather-forecast/320620?day=1&hbhhour=21&lang=en-us",
+    "Link": "http://www.accuweather.com/en/th/mueang-samut-prakan/320620/hourly-weather-forecast/320620?day=1&hbhhour=21&lang=en-us"
+  },
+  {
+    "DateTime": "2025-02-14T22:00:00+07:00",
+    "EpochDateTime": 1739545200,
+    "WeatherIcon": 33,
+    "IconPhrase": "Clear",
+    "HasPrecipitation": false,
+    "IsDaylight": false,
+    "Temperature": {
+      "Value": 81,
+      "Unit": "F",
+      "UnitType": 18
+    },
+    "RealFeelTemperature": {
+      "Value": 86,
+      "Unit": "F",
+      "UnitType": 18,
+      "Phrase": "Very Warm"
+    },
+    "RealFeelTemperatureShade": {
+      "Value": 86,
+      "Unit": "F",
+      "UnitType": 18,
+      "Phrase": "Very Warm"
+    },
+    "WetBulbTemperature": {
+      "Value": 77,
+      "Unit": "F",
+      "UnitType": 18
+    },
+    "WetBulbGlobeTemperature": {
+      "Value": 80,
+      "Unit": "F",
+      "UnitType": 18
+    },
+    "DewPoint": {
+      "Value": 74,
+      "Unit": "F",
+      "UnitType": 18
+    },
+    "Wind": {
+      "Speed": {
+        "Value": 10.4,
+        "Unit": "mi/h",
+        "UnitType": 9
+      },
+      "Direction": {
+        "Degrees": 197,
+        "Localized": "SSW",
+        "English": "SSW"
+      }
+    },
+    "WindGust": {
+      "Speed": {
+        "Value": 16.1,
+        "Unit": "mi/h",
+        "UnitType": 9
+      }
+    },
+    "RelativeHumidity": 81,
+    "IndoorRelativeHumidity": 81,
+    "Visibility": {
+      "Value": 10,
+      "Unit": "mi",
+      "UnitType": 2
+    },
+    "Ceiling": {
+      "Value": 30000,
+      "Unit": "ft",
+      "UnitType": 0
+    },
+    "UVIndex": 0,
+    "UVIndexText": "Low",
+    "PrecipitationProbability": 0,
+    "ThunderstormProbability": 0,
+    "RainProbability": 0,
+    "SnowProbability": 0,
+    "IceProbability": 0,
+    "TotalLiquid": {
+      "Value": 0,
+      "Unit": "in",
+      "UnitType": 1
+    },
+    "Rain": {
+      "Value": 0,
+      "Unit": "in",
+      "UnitType": 1
+    },
+    "Snow": {
+      "Value": 0,
+      "Unit": "in",
+      "UnitType": 1
+    },
+    "Ice": {
+      "Value": 0,
+      "Unit": "in",
+      "UnitType": 1
+    },
+    "CloudCover": 1,
+    "Evapotranspiration": {
+      "Value": 0,
+      "Unit": "in",
+      "UnitType": 1
+    },
+    "SolarIrradiance": {
+      "Value": 0,
+      "Unit": "W/m²",
+      "UnitType": 33
+    },
+    "AccuLumenBrightnessIndex": 0,
+    "MobileLink": "http://www.accuweather.com/en/th/mueang-samut-prakan/320620/hourly-weather-forecast/320620?day=1&hbhhour=22&lang=en-us",
+    "Link": "http://www.accuweather.com/en/th/mueang-samut-prakan/320620/hourly-weather-forecast/320620?day=1&hbhhour=22&lang=en-us"
+  },
+  {
+    "DateTime": "2025-02-14T23:00:00+07:00",
+    "EpochDateTime": 1739548800,
+    "WeatherIcon": 33,
+    "IconPhrase": "Clear",
+    "HasPrecipitation": false,
+    "IsDaylight": false,
+    "Temperature": {
+      "Value": 80,
+      "Unit": "F",
+      "UnitType": 18
+    },
+    "RealFeelTemperature": {
+      "Value": 86,
+      "Unit": "F",
+      "UnitType": 18,
+      "Phrase": "Very Warm"
+    },
+    "RealFeelTemperatureShade": {
+      "Value": 86,
+      "Unit": "F",
+      "UnitType": 18,
+      "Phrase": "Very Warm"
+    },
+    "WetBulbTemperature": {
+      "Value": 76,
+      "Unit": "F",
+      "UnitType": 18
+    },
+    "WetBulbGlobeTemperature": {
+      "Value": 80,
+      "Unit": "F",
+      "UnitType": 18
+    },
+    "DewPoint": {
+      "Value": 75,
+      "Unit": "F",
+      "UnitType": 18
+    },
+    "Wind": {
+      "Speed": {
+        "Value": 10.4,
+        "Unit": "mi/h",
+        "UnitType": 9
+      },
+      "Direction": {
+        "Degrees": 198,
+        "Localized": "SSW",
+        "English": "SSW"
+      }
+    },
+    "WindGust": {
+      "Speed": {
+        "Value": 15,
+        "Unit": "mi/h",
+        "UnitType": 9
+      }
+    },
+    "RelativeHumidity": 82,
+    "IndoorRelativeHumidity": 82,
+    "Visibility": {
+      "Value": 10,
+      "Unit": "mi",
+      "UnitType": 2
+    },
+    "Ceiling": {
+      "Value": 30000,
+      "Unit": "ft",
+      "UnitType": 0
+    },
+    "UVIndex": 0,
+    "UVIndexText": "Low",
+    "PrecipitationProbability": 0,
+    "ThunderstormProbability": 0,
+    "RainProbability": 0,
+    "SnowProbability": 0,
+    "IceProbability": 0,
+    "TotalLiquid": {
+      "Value": 0,
+      "Unit": "in",
+      "UnitType": 1
+    },
+    "Rain": {
+      "Value": 0,
+      "Unit": "in",
+      "UnitType": 1
+    },
+    "Snow": {
+      "Value": 0,
+      "Unit": "in",
+      "UnitType": 1
+    },
+    "Ice": {
+      "Value": 0,
+      "Unit": "in",
+      "UnitType": 1
+    },
+    "CloudCover": 1,
+    "Evapotranspiration": {
+      "Value": 0,
+      "Unit": "in",
+      "UnitType": 1
+    },
+    "SolarIrradiance": {
+      "Value": 0,
+      "Unit": "W/m²",
+      "UnitType": 33
+    },
+    "AccuLumenBrightnessIndex": 0,
+    "MobileLink": "http://www.accuweather.com/en/th/mueang-samut-prakan/320620/hourly-weather-forecast/320620?day=1&hbhhour=23&lang=en-us",
+    "Link": "http://www.accuweather.com/en/th/mueang-samut-prakan/320620/hourly-weather-forecast/320620?day=1&hbhhour=23&lang=en-us"
+  }
+]
