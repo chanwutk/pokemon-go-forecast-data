@@ -1,0 +1,548 @@
+[
+  {
+    "time": 6,
+    "city": "ชลบุรี",
+    "weather": "Clear",
+    "types": "Fire, Grass, Gound",
+    "order": 0
+  },
+  {
+    "time": 7,
+    "city": "ชลบุรี",
+    "weather": "Sunny",
+    "types": "Fire, Grass, Gound",
+    "order": 1
+  },
+  {
+    "time": 8,
+    "city": "ชลบุรี",
+    "weather": "Partly Cloudy",
+    "types": "Normal, Rock",
+    "order": 2
+  },
+  {
+    "time": 9,
+    "city": "ชลบุรี",
+    "weather": "Partly Cloudy",
+    "types": "Normal, Rock",
+    "order": 3
+  },
+  {
+    "time": 10,
+    "city": "ชลบุรี",
+    "weather": "Cloudy",
+    "types": "Fairy, Fighting, Poison",
+    "order": 4
+  },
+  {
+    "time": 11,
+    "city": "ชลบุรี",
+    "weather": "Cloudy",
+    "types": "Fairy, Fighting, Poison",
+    "order": 5
+  },
+  {
+    "time": 12,
+    "city": "ชลบุรี",
+    "weather": "Cloudy",
+    "types": "Fairy, Fighting, Poison",
+    "order": 6
+  },
+  {
+    "time": 13,
+    "city": "ชลบุรี",
+    "weather": "Partly Cloudy",
+    "types": "Normal, Rock",
+    "order": 7
+  },
+  {
+    "time": 14,
+    "city": "ชลบุรี",
+    "weather": "Partly Cloudy",
+    "types": "Normal, Rock",
+    "order": 8
+  },
+  {
+    "time": 15,
+    "city": "ชลบุรี",
+    "weather": "Sunny",
+    "types": "Fire, Grass, Gound",
+    "order": 9
+  },
+  {
+    "time": 16,
+    "city": "ชลบุรี",
+    "weather": "Sunny",
+    "types": "Fire, Grass, Gound",
+    "order": 10
+  },
+  {
+    "time": 17,
+    "city": "ชลบุรี",
+    "weather": "Sunny",
+    "types": "Fire, Grass, Gound",
+    "order": 11
+  },
+  {
+    "time": 18,
+    "city": "ชลบุรี",
+    "weather": "Clear",
+    "types": "Fire, Grass, Gound",
+    "order": 12
+  },
+  {
+    "time": 6,
+    "city": "นนทบุรี",
+    "weather": "Clear",
+    "types": "Fire, Grass, Gound",
+    "order": 0
+  },
+  {
+    "time": 7,
+    "city": "นนทบุรี",
+    "weather": "Sunny",
+    "types": "Fire, Grass, Gound",
+    "order": 1
+  },
+  {
+    "time": 8,
+    "city": "นนทบุรี",
+    "weather": "Partly Cloudy",
+    "types": "Normal, Rock",
+    "order": 2
+  },
+  {
+    "time": 9,
+    "city": "นนทบุรี",
+    "weather": "Partly Cloudy",
+    "types": "Normal, Rock",
+    "order": 3
+  },
+  {
+    "time": 10,
+    "city": "นนทบุรี",
+    "weather": "Cloudy",
+    "types": "Fairy, Fighting, Poison",
+    "order": 4
+  },
+  {
+    "time": 11,
+    "city": "นนทบุรี",
+    "weather": "Cloudy",
+    "types": "Fairy, Fighting, Poison",
+    "order": 5
+  },
+  {
+    "time": 12,
+    "city": "นนทบุรี",
+    "weather": "Cloudy",
+    "types": "Fairy, Fighting, Poison",
+    "order": 6
+  },
+  {
+    "time": 13,
+    "city": "นนทบุรี",
+    "weather": "Cloudy",
+    "types": "Fairy, Fighting, Poison",
+    "order": 7
+  },
+  {
+    "time": 14,
+    "city": "นนทบุรี",
+    "weather": "Partly Cloudy",
+    "types": "Normal, Rock",
+    "order": 8
+  },
+  {
+    "time": 15,
+    "city": "นนทบุรี",
+    "weather": "Partly Cloudy",
+    "types": "Normal, Rock",
+    "order": 9
+  },
+  {
+    "time": 16,
+    "city": "นนทบุรี",
+    "weather": "Sunny",
+    "types": "Fire, Grass, Gound",
+    "order": 10
+  },
+  {
+    "time": 17,
+    "city": "นนทบุรี",
+    "weather": "Sunny",
+    "types": "Fire, Grass, Gound",
+    "order": 11
+  },
+  {
+    "time": 18,
+    "city": "นนทบุรี",
+    "weather": "Clear",
+    "types": "Fire, Grass, Gound",
+    "order": 12
+  },
+  {
+    "time": 6,
+    "city": "รามคำแหง",
+    "weather": "Partly Cloudy",
+    "types": "Normal, Rock",
+    "order": 0
+  },
+  {
+    "time": 7,
+    "city": "รามคำแหง",
+    "weather": "Cloudy",
+    "types": "Fairy, Fighting, Poison",
+    "order": 1
+  },
+  {
+    "time": 8,
+    "city": "รามคำแหง",
+    "weather": "Cloudy",
+    "types": "Fairy, Fighting, Poison",
+    "order": 2
+  },
+  {
+    "time": 9,
+    "city": "รามคำแหง",
+    "weather": "Cloudy",
+    "types": "Fairy, Fighting, Poison",
+    "order": 3
+  },
+  {
+    "time": 10,
+    "city": "รามคำแหง",
+    "weather": "Cloudy",
+    "types": "Fairy, Fighting, Poison",
+    "order": 4
+  },
+  {
+    "time": 11,
+    "city": "รามคำแหง",
+    "weather": "Cloudy",
+    "types": "Fairy, Fighting, Poison",
+    "order": 5
+  },
+  {
+    "time": 12,
+    "city": "รามคำแหง",
+    "weather": "Cloudy",
+    "types": "Fairy, Fighting, Poison",
+    "order": 6
+  },
+  {
+    "time": 13,
+    "city": "รามคำแหง",
+    "weather": "Cloudy",
+    "types": "Fairy, Fighting, Poison",
+    "order": 7
+  },
+  {
+    "time": 14,
+    "city": "รามคำแหง",
+    "weather": "Partly Cloudy",
+    "types": "Normal, Rock",
+    "order": 8
+  },
+  {
+    "time": 15,
+    "city": "รามคำแหง",
+    "weather": "Partly Cloudy",
+    "types": "Normal, Rock",
+    "order": 9
+  },
+  {
+    "time": 16,
+    "city": "รามคำแหง",
+    "weather": "Sunny",
+    "types": "Fire, Grass, Gound",
+    "order": 10
+  },
+  {
+    "time": 17,
+    "city": "รามคำแหง",
+    "weather": "Sunny",
+    "types": "Fire, Grass, Gound",
+    "order": 11
+  },
+  {
+    "time": 18,
+    "city": "รามคำแหง",
+    "weather": "Clear",
+    "types": "Fire, Grass, Gound",
+    "order": 12
+  },
+  {
+    "time": 6,
+    "city": "กรุงเทพ",
+    "weather": "Partly Cloudy",
+    "types": "Normal, Rock",
+    "order": 0
+  },
+  {
+    "time": 7,
+    "city": "กรุงเทพ",
+    "weather": "Cloudy",
+    "types": "Fairy, Fighting, Poison",
+    "order": 1
+  },
+  {
+    "time": 8,
+    "city": "กรุงเทพ",
+    "weather": "Cloudy",
+    "types": "Fairy, Fighting, Poison",
+    "order": 2
+  },
+  {
+    "time": 9,
+    "city": "กรุงเทพ",
+    "weather": "Cloudy",
+    "types": "Fairy, Fighting, Poison",
+    "order": 3
+  },
+  {
+    "time": 10,
+    "city": "กรุงเทพ",
+    "weather": "Cloudy",
+    "types": "Fairy, Fighting, Poison",
+    "order": 4
+  },
+  {
+    "time": 11,
+    "city": "กรุงเทพ",
+    "weather": "Cloudy",
+    "types": "Fairy, Fighting, Poison",
+    "order": 5
+  },
+  {
+    "time": 12,
+    "city": "กรุงเทพ",
+    "weather": "Cloudy",
+    "types": "Fairy, Fighting, Poison",
+    "order": 6
+  },
+  {
+    "time": 13,
+    "city": "กรุงเทพ",
+    "weather": "Cloudy",
+    "types": "Fairy, Fighting, Poison",
+    "order": 7
+  },
+  {
+    "time": 14,
+    "city": "กรุงเทพ",
+    "weather": "Partly Cloudy",
+    "types": "Normal, Rock",
+    "order": 8
+  },
+  {
+    "time": 15,
+    "city": "กรุงเทพ",
+    "weather": "Partly Cloudy",
+    "types": "Normal, Rock",
+    "order": 9
+  },
+  {
+    "time": 16,
+    "city": "กรุงเทพ",
+    "weather": "Sunny",
+    "types": "Fire, Grass, Gound",
+    "order": 10
+  },
+  {
+    "time": 17,
+    "city": "กรุงเทพ",
+    "weather": "Sunny",
+    "types": "Fire, Grass, Gound",
+    "order": 11
+  },
+  {
+    "time": 18,
+    "city": "กรุงเทพ",
+    "weather": "Clear",
+    "types": "Fire, Grass, Gound",
+    "order": 12
+  },
+  {
+    "time": 6,
+    "city": "สมุทรปราการ",
+    "weather": "Partly Cloudy",
+    "types": "Normal, Rock",
+    "order": 0
+  },
+  {
+    "time": 7,
+    "city": "สมุทรปราการ",
+    "weather": "Cloudy",
+    "types": "Fairy, Fighting, Poison",
+    "order": 1
+  },
+  {
+    "time": 8,
+    "city": "สมุทรปราการ",
+    "weather": "Cloudy",
+    "types": "Fairy, Fighting, Poison",
+    "order": 2
+  },
+  {
+    "time": 9,
+    "city": "สมุทรปราการ",
+    "weather": "Cloudy",
+    "types": "Fairy, Fighting, Poison",
+    "order": 3
+  },
+  {
+    "time": 10,
+    "city": "สมุทรปราการ",
+    "weather": "Cloudy",
+    "types": "Fairy, Fighting, Poison",
+    "order": 4
+  },
+  {
+    "time": 11,
+    "city": "สมุทรปราการ",
+    "weather": "Cloudy",
+    "types": "Fairy, Fighting, Poison",
+    "order": 5
+  },
+  {
+    "time": 12,
+    "city": "สมุทรปราการ",
+    "weather": "Cloudy",
+    "types": "Fairy, Fighting, Poison",
+    "order": 6
+  },
+  {
+    "time": 13,
+    "city": "สมุทรปราการ",
+    "weather": "Cloudy",
+    "types": "Fairy, Fighting, Poison",
+    "order": 7
+  },
+  {
+    "time": 14,
+    "city": "สมุทรปราการ",
+    "weather": "Partly Cloudy",
+    "types": "Normal, Rock",
+    "order": 8
+  },
+  {
+    "time": 15,
+    "city": "สมุทรปราการ",
+    "weather": "Partly Cloudy",
+    "types": "Normal, Rock",
+    "order": 9
+  },
+  {
+    "time": 16,
+    "city": "สมุทรปราการ",
+    "weather": "Sunny",
+    "types": "Fire, Grass, Gound",
+    "order": 10
+  },
+  {
+    "time": 17,
+    "city": "สมุทรปราการ",
+    "weather": "Sunny",
+    "types": "Fire, Grass, Gound",
+    "order": 11
+  },
+  {
+    "time": 18,
+    "city": "สมุทรปราการ",
+    "weather": "Clear",
+    "types": "Fire, Grass, Gound",
+    "order": 12
+  },
+  {
+    "time": 6,
+    "city": "บางพลี",
+    "weather": "Clear",
+    "types": "Fire, Grass, Gound",
+    "order": 0
+  },
+  {
+    "time": 7,
+    "city": "บางพลี",
+    "weather": "Partly Cloudy",
+    "types": "Normal, Rock",
+    "order": 1
+  },
+  {
+    "time": 8,
+    "city": "บางพลี",
+    "weather": "Partly Cloudy",
+    "types": "Normal, Rock",
+    "order": 2
+  },
+  {
+    "time": 9,
+    "city": "บางพลี",
+    "weather": "Cloudy",
+    "types": "Fairy, Fighting, Poison",
+    "order": 3
+  },
+  {
+    "time": 10,
+    "city": "บางพลี",
+    "weather": "Cloudy",
+    "types": "Fairy, Fighting, Poison",
+    "order": 4
+  },
+  {
+    "time": 11,
+    "city": "บางพลี",
+    "weather": "Cloudy",
+    "types": "Fairy, Fighting, Poison",
+    "order": 5
+  },
+  {
+    "time": 12,
+    "city": "บางพลี",
+    "weather": "Cloudy",
+    "types": "Fairy, Fighting, Poison",
+    "order": 6
+  },
+  {
+    "time": 13,
+    "city": "บางพลี",
+    "weather": "Cloudy",
+    "types": "Fairy, Fighting, Poison",
+    "order": 7
+  },
+  {
+    "time": 14,
+    "city": "บางพลี",
+    "weather": "Partly Cloudy",
+    "types": "Normal, Rock",
+    "order": 8
+  },
+  {
+    "time": 15,
+    "city": "บางพลี",
+    "weather": "Partly Cloudy",
+    "types": "Normal, Rock",
+    "order": 9
+  },
+  {
+    "time": 16,
+    "city": "บางพลี",
+    "weather": "Sunny",
+    "types": "Fire, Grass, Gound",
+    "order": 10
+  },
+  {
+    "time": 17,
+    "city": "บางพลี",
+    "weather": "Sunny",
+    "types": "Fire, Grass, Gound",
+    "order": 11
+  },
+  {
+    "time": 18,
+    "city": "บางพลี",
+    "weather": "Clear",
+    "types": "Fire, Grass, Gound",
+    "order": 12
+  }
+]
