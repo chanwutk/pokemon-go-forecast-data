@@ -1,0 +1,1464 @@
+[
+  null,
+  null,
+  {
+    "DateTime": "2024-10-22T02:00:00+07:00",
+    "EpochDateTime": 1729537200,
+    "WeatherIcon": 15,
+    "IconPhrase": "Thunderstorms",
+    "HasPrecipitation": true,
+    "PrecipitationType": "Rain",
+    "PrecipitationIntensity": "Light",
+    "IsDaylight": false,
+    "Temperature": {
+      "Value": 80,
+      "Unit": "F",
+      "UnitType": 18
+    },
+    "RealFeelTemperature": {
+      "Value": 86,
+      "Unit": "F",
+      "UnitType": 18,
+      "Phrase": "Very Warm"
+    },
+    "RealFeelTemperatureShade": {
+      "Value": 86,
+      "Unit": "F",
+      "UnitType": 18,
+      "Phrase": "Very Warm"
+    },
+    "WetBulbTemperature": {
+      "Value": 77,
+      "Unit": "F",
+      "UnitType": 18
+    },
+    "WetBulbGlobeTemperature": {
+      "Value": 80,
+      "Unit": "F",
+      "UnitType": 18
+    },
+    "DewPoint": {
+      "Value": 75,
+      "Unit": "F",
+      "UnitType": 18
+    },
+    "Wind": {
+      "Speed": {
+        "Value": 4.6,
+        "Unit": "mi/h",
+        "UnitType": 9
+      },
+      "Direction": {
+        "Degrees": 171,
+        "Localized": "S",
+        "English": "S"
+      }
+    },
+    "WindGust": {
+      "Speed": {
+        "Value": 8.1,
+        "Unit": "mi/h",
+        "UnitType": 9
+      }
+    },
+    "RelativeHumidity": 85,
+    "IndoorRelativeHumidity": 85,
+    "Visibility": {
+      "Value": 5,
+      "Unit": "mi",
+      "UnitType": 2
+    },
+    "Ceiling": {
+      "Value": 30000,
+      "Unit": "ft",
+      "UnitType": 0
+    },
+    "UVIndex": 0,
+    "UVIndexText": "Low",
+    "PrecipitationProbability": 51,
+    "ThunderstormProbability": 30,
+    "RainProbability": 51,
+    "SnowProbability": 0,
+    "IceProbability": 0,
+    "TotalLiquid": {
+      "Value": 0.02,
+      "Unit": "in",
+      "UnitType": 1
+    },
+    "Rain": {
+      "Value": 0.02,
+      "Unit": "in",
+      "UnitType": 1
+    },
+    "Snow": {
+      "Value": 0,
+      "Unit": "in",
+      "UnitType": 1
+    },
+    "Ice": {
+      "Value": 0,
+      "Unit": "in",
+      "UnitType": 1
+    },
+    "CloudCover": 78,
+    "Evapotranspiration": {
+      "Value": 0,
+      "Unit": "in",
+      "UnitType": 1
+    },
+    "SolarIrradiance": {
+      "Value": 0,
+      "Unit": "W/m²",
+      "UnitType": 33
+    },
+    "MobileLink": "http://www.accuweather.com/en/th/mueang-chon-buri/317582/hourly-weather-forecast/317582?day=2&hbhhour=2&lang=en-us",
+    "Link": "http://www.accuweather.com/en/th/mueang-chon-buri/317582/hourly-weather-forecast/317582?day=2&hbhhour=2&lang=en-us"
+  },
+  {
+    "DateTime": "2024-10-22T03:00:00+07:00",
+    "EpochDateTime": 1729540800,
+    "WeatherIcon": 15,
+    "IconPhrase": "Thunderstorms",
+    "HasPrecipitation": true,
+    "PrecipitationType": "Rain",
+    "PrecipitationIntensity": "Light",
+    "IsDaylight": false,
+    "Temperature": {
+      "Value": 80,
+      "Unit": "F",
+      "UnitType": 18
+    },
+    "RealFeelTemperature": {
+      "Value": 87,
+      "Unit": "F",
+      "UnitType": 18,
+      "Phrase": "Very Warm"
+    },
+    "RealFeelTemperatureShade": {
+      "Value": 87,
+      "Unit": "F",
+      "UnitType": 18,
+      "Phrase": "Very Warm"
+    },
+    "WetBulbTemperature": {
+      "Value": 77,
+      "Unit": "F",
+      "UnitType": 18
+    },
+    "WetBulbGlobeTemperature": {
+      "Value": 80,
+      "Unit": "F",
+      "UnitType": 18
+    },
+    "DewPoint": {
+      "Value": 75,
+      "Unit": "F",
+      "UnitType": 18
+    },
+    "Wind": {
+      "Speed": {
+        "Value": 4.6,
+        "Unit": "mi/h",
+        "UnitType": 9
+      },
+      "Direction": {
+        "Degrees": 152,
+        "Localized": "SSE",
+        "English": "SSE"
+      }
+    },
+    "WindGust": {
+      "Speed": {
+        "Value": 8.1,
+        "Unit": "mi/h",
+        "UnitType": 9
+      }
+    },
+    "RelativeHumidity": 85,
+    "IndoorRelativeHumidity": 85,
+    "Visibility": {
+      "Value": 4,
+      "Unit": "mi",
+      "UnitType": 2
+    },
+    "Ceiling": {
+      "Value": 30000,
+      "Unit": "ft",
+      "UnitType": 0
+    },
+    "UVIndex": 0,
+    "UVIndexText": "Low",
+    "PrecipitationProbability": 51,
+    "ThunderstormProbability": 30,
+    "RainProbability": 51,
+    "SnowProbability": 0,
+    "IceProbability": 0,
+    "TotalLiquid": {
+      "Value": 0.01,
+      "Unit": "in",
+      "UnitType": 1
+    },
+    "Rain": {
+      "Value": 0.01,
+      "Unit": "in",
+      "UnitType": 1
+    },
+    "Snow": {
+      "Value": 0,
+      "Unit": "in",
+      "UnitType": 1
+    },
+    "Ice": {
+      "Value": 0,
+      "Unit": "in",
+      "UnitType": 1
+    },
+    "CloudCover": 78,
+    "Evapotranspiration": {
+      "Value": 0,
+      "Unit": "in",
+      "UnitType": 1
+    },
+    "SolarIrradiance": {
+      "Value": 0,
+      "Unit": "W/m²",
+      "UnitType": 33
+    },
+    "MobileLink": "http://www.accuweather.com/en/th/mueang-chon-buri/317582/hourly-weather-forecast/317582?day=2&hbhhour=3&lang=en-us",
+    "Link": "http://www.accuweather.com/en/th/mueang-chon-buri/317582/hourly-weather-forecast/317582?day=2&hbhhour=3&lang=en-us"
+  },
+  {
+    "DateTime": "2024-10-22T04:00:00+07:00",
+    "EpochDateTime": 1729544400,
+    "WeatherIcon": 38,
+    "IconPhrase": "Mostly cloudy",
+    "HasPrecipitation": false,
+    "IsDaylight": false,
+    "Temperature": {
+      "Value": 82,
+      "Unit": "F",
+      "UnitType": 18
+    },
+    "RealFeelTemperature": {
+      "Value": 91,
+      "Unit": "F",
+      "UnitType": 18,
+      "Phrase": "Hot"
+    },
+    "RealFeelTemperatureShade": {
+      "Value": 91,
+      "Unit": "F",
+      "UnitType": 18,
+      "Phrase": "Hot"
+    },
+    "WetBulbTemperature": {
+      "Value": 78,
+      "Unit": "F",
+      "UnitType": 18
+    },
+    "WetBulbGlobeTemperature": {
+      "Value": 81,
+      "Unit": "F",
+      "UnitType": 18
+    },
+    "DewPoint": {
+      "Value": 77,
+      "Unit": "F",
+      "UnitType": 18
+    },
+    "Wind": {
+      "Speed": {
+        "Value": 4.6,
+        "Unit": "mi/h",
+        "UnitType": 9
+      },
+      "Direction": {
+        "Degrees": 135,
+        "Localized": "SE",
+        "English": "SE"
+      }
+    },
+    "WindGust": {
+      "Speed": {
+        "Value": 8.1,
+        "Unit": "mi/h",
+        "UnitType": 9
+      }
+    },
+    "RelativeHumidity": 85,
+    "IndoorRelativeHumidity": 85,
+    "Visibility": {
+      "Value": 4,
+      "Unit": "mi",
+      "UnitType": 2
+    },
+    "Ceiling": {
+      "Value": 30000,
+      "Unit": "ft",
+      "UnitType": 0
+    },
+    "UVIndex": 0,
+    "UVIndexText": "Low",
+    "PrecipitationProbability": 38,
+    "ThunderstormProbability": 22,
+    "RainProbability": 38,
+    "SnowProbability": 0,
+    "IceProbability": 0,
+    "TotalLiquid": {
+      "Value": 0,
+      "Unit": "in",
+      "UnitType": 1
+    },
+    "Rain": {
+      "Value": 0,
+      "Unit": "in",
+      "UnitType": 1
+    },
+    "Snow": {
+      "Value": 0,
+      "Unit": "in",
+      "UnitType": 1
+    },
+    "Ice": {
+      "Value": 0,
+      "Unit": "in",
+      "UnitType": 1
+    },
+    "CloudCover": 79,
+    "Evapotranspiration": {
+      "Value": 0,
+      "Unit": "in",
+      "UnitType": 1
+    },
+    "SolarIrradiance": {
+      "Value": 0,
+      "Unit": "W/m²",
+      "UnitType": 33
+    },
+    "MobileLink": "http://www.accuweather.com/en/th/mueang-chon-buri/317582/hourly-weather-forecast/317582?day=1&hbhhour=4&lang=en-us",
+    "Link": "http://www.accuweather.com/en/th/mueang-chon-buri/317582/hourly-weather-forecast/317582?day=1&hbhhour=4&lang=en-us"
+  },
+  {
+    "DateTime": "2024-10-22T05:00:00+07:00",
+    "EpochDateTime": 1729548000,
+    "WeatherIcon": 38,
+    "IconPhrase": "Mostly cloudy",
+    "HasPrecipitation": false,
+    "IsDaylight": false,
+    "Temperature": {
+      "Value": 81,
+      "Unit": "F",
+      "UnitType": 18
+    },
+    "RealFeelTemperature": {
+      "Value": 90,
+      "Unit": "F",
+      "UnitType": 18,
+      "Phrase": "Hot"
+    },
+    "RealFeelTemperatureShade": {
+      "Value": 90,
+      "Unit": "F",
+      "UnitType": 18,
+      "Phrase": "Hot"
+    },
+    "WetBulbTemperature": {
+      "Value": 78,
+      "Unit": "F",
+      "UnitType": 18
+    },
+    "WetBulbGlobeTemperature": {
+      "Value": 80,
+      "Unit": "F",
+      "UnitType": 18
+    },
+    "DewPoint": {
+      "Value": 76,
+      "Unit": "F",
+      "UnitType": 18
+    },
+    "Wind": {
+      "Speed": {
+        "Value": 4.6,
+        "Unit": "mi/h",
+        "UnitType": 9
+      },
+      "Direction": {
+        "Degrees": 125,
+        "Localized": "SE",
+        "English": "SE"
+      }
+    },
+    "WindGust": {
+      "Speed": {
+        "Value": 9.2,
+        "Unit": "mi/h",
+        "UnitType": 9
+      }
+    },
+    "RelativeHumidity": 84,
+    "IndoorRelativeHumidity": 84,
+    "Visibility": {
+      "Value": 4,
+      "Unit": "mi",
+      "UnitType": 2
+    },
+    "Ceiling": {
+      "Value": 30000,
+      "Unit": "ft",
+      "UnitType": 0
+    },
+    "UVIndex": 0,
+    "UVIndexText": "Low",
+    "PrecipitationProbability": 32,
+    "ThunderstormProbability": 19,
+    "RainProbability": 32,
+    "SnowProbability": 0,
+    "IceProbability": 0,
+    "TotalLiquid": {
+      "Value": 0,
+      "Unit": "in",
+      "UnitType": 1
+    },
+    "Rain": {
+      "Value": 0,
+      "Unit": "in",
+      "UnitType": 1
+    },
+    "Snow": {
+      "Value": 0,
+      "Unit": "in",
+      "UnitType": 1
+    },
+    "Ice": {
+      "Value": 0,
+      "Unit": "in",
+      "UnitType": 1
+    },
+    "CloudCover": 82,
+    "Evapotranspiration": {
+      "Value": 0,
+      "Unit": "in",
+      "UnitType": 1
+    },
+    "SolarIrradiance": {
+      "Value": 0,
+      "Unit": "W/m²",
+      "UnitType": 33
+    },
+    "MobileLink": "http://www.accuweather.com/en/th/mueang-chon-buri/317582/hourly-weather-forecast/317582?day=1&hbhhour=5&lang=en-us",
+    "Link": "http://www.accuweather.com/en/th/mueang-chon-buri/317582/hourly-weather-forecast/317582?day=1&hbhhour=5&lang=en-us"
+  },
+  {
+    "DateTime": "2024-10-22T06:00:00+07:00",
+    "EpochDateTime": 1729551600,
+    "WeatherIcon": 38,
+    "IconPhrase": "Mostly cloudy",
+    "HasPrecipitation": false,
+    "IsDaylight": false,
+    "Temperature": {
+      "Value": 78,
+      "Unit": "F",
+      "UnitType": 18
+    },
+    "RealFeelTemperature": {
+      "Value": 87,
+      "Unit": "F",
+      "UnitType": 18,
+      "Phrase": "Very Warm"
+    },
+    "RealFeelTemperatureShade": {
+      "Value": 87,
+      "Unit": "F",
+      "UnitType": 18,
+      "Phrase": "Very Warm"
+    },
+    "WetBulbTemperature": {
+      "Value": 76,
+      "Unit": "F",
+      "UnitType": 18
+    },
+    "WetBulbGlobeTemperature": {
+      "Value": 78,
+      "Unit": "F",
+      "UnitType": 18
+    },
+    "DewPoint": {
+      "Value": 76,
+      "Unit": "F",
+      "UnitType": 18
+    },
+    "Wind": {
+      "Speed": {
+        "Value": 3.5,
+        "Unit": "mi/h",
+        "UnitType": 9
+      },
+      "Direction": {
+        "Degrees": 119,
+        "Localized": "ESE",
+        "English": "ESE"
+      }
+    },
+    "WindGust": {
+      "Speed": {
+        "Value": 10.4,
+        "Unit": "mi/h",
+        "UnitType": 9
+      }
+    },
+    "RelativeHumidity": 93,
+    "IndoorRelativeHumidity": 93,
+    "Visibility": {
+      "Value": 4,
+      "Unit": "mi",
+      "UnitType": 2
+    },
+    "Ceiling": {
+      "Value": 30000,
+      "Unit": "ft",
+      "UnitType": 0
+    },
+    "UVIndex": 0,
+    "UVIndexText": "Low",
+    "PrecipitationProbability": 32,
+    "ThunderstormProbability": 19,
+    "RainProbability": 32,
+    "SnowProbability": 0,
+    "IceProbability": 0,
+    "TotalLiquid": {
+      "Value": 0,
+      "Unit": "in",
+      "UnitType": 1
+    },
+    "Rain": {
+      "Value": 0,
+      "Unit": "in",
+      "UnitType": 1
+    },
+    "Snow": {
+      "Value": 0,
+      "Unit": "in",
+      "UnitType": 1
+    },
+    "Ice": {
+      "Value": 0,
+      "Unit": "in",
+      "UnitType": 1
+    },
+    "CloudCover": 86,
+    "Evapotranspiration": {
+      "Value": 0,
+      "Unit": "in",
+      "UnitType": 1
+    },
+    "SolarIrradiance": {
+      "Value": 0,
+      "Unit": "W/m²",
+      "UnitType": 33
+    },
+    "MobileLink": "http://www.accuweather.com/en/th/mueang-chon-buri/317582/hourly-weather-forecast/317582?day=1&hbhhour=6&lang=en-us",
+    "Link": "http://www.accuweather.com/en/th/mueang-chon-buri/317582/hourly-weather-forecast/317582?day=1&hbhhour=6&lang=en-us"
+  },
+  {
+    "DateTime": "2024-10-22T07:00:00+07:00",
+    "EpochDateTime": 1729555200,
+    "WeatherIcon": 6,
+    "IconPhrase": "Mostly cloudy",
+    "HasPrecipitation": false,
+    "IsDaylight": true,
+    "Temperature": {
+      "Value": 81,
+      "Unit": "F",
+      "UnitType": 18
+    },
+    "RealFeelTemperature": {
+      "Value": 91,
+      "Unit": "F",
+      "UnitType": 18,
+      "Phrase": "Hot"
+    },
+    "RealFeelTemperatureShade": {
+      "Value": 91,
+      "Unit": "F",
+      "UnitType": 18,
+      "Phrase": "Hot"
+    },
+    "WetBulbTemperature": {
+      "Value": 78,
+      "Unit": "F",
+      "UnitType": 18
+    },
+    "WetBulbGlobeTemperature": {
+      "Value": 80,
+      "Unit": "F",
+      "UnitType": 18
+    },
+    "DewPoint": {
+      "Value": 76,
+      "Unit": "F",
+      "UnitType": 18
+    },
+    "Wind": {
+      "Speed": {
+        "Value": 3.5,
+        "Unit": "mi/h",
+        "UnitType": 9
+      },
+      "Direction": {
+        "Degrees": 116,
+        "Localized": "ESE",
+        "English": "ESE"
+      }
+    },
+    "WindGust": {
+      "Speed": {
+        "Value": 9.2,
+        "Unit": "mi/h",
+        "UnitType": 9
+      }
+    },
+    "RelativeHumidity": 86,
+    "IndoorRelativeHumidity": 86,
+    "Visibility": {
+      "Value": 4,
+      "Unit": "mi",
+      "UnitType": 2
+    },
+    "Ceiling": {
+      "Value": 30000,
+      "Unit": "ft",
+      "UnitType": 0
+    },
+    "UVIndex": 1,
+    "UVIndexText": "Low",
+    "PrecipitationProbability": 34,
+    "ThunderstormProbability": 20,
+    "RainProbability": 34,
+    "SnowProbability": 0,
+    "IceProbability": 0,
+    "TotalLiquid": {
+      "Value": 0,
+      "Unit": "in",
+      "UnitType": 1
+    },
+    "Rain": {
+      "Value": 0,
+      "Unit": "in",
+      "UnitType": 1
+    },
+    "Snow": {
+      "Value": 0,
+      "Unit": "in",
+      "UnitType": 1
+    },
+    "Ice": {
+      "Value": 0,
+      "Unit": "in",
+      "UnitType": 1
+    },
+    "CloudCover": 89,
+    "Evapotranspiration": {
+      "Value": 0,
+      "Unit": "in",
+      "UnitType": 1
+    },
+    "SolarIrradiance": {
+      "Value": 78,
+      "Unit": "W/m²",
+      "UnitType": 33
+    },
+    "MobileLink": "http://www.accuweather.com/en/th/mueang-chon-buri/317582/hourly-weather-forecast/317582?day=1&hbhhour=7&lang=en-us",
+    "Link": "http://www.accuweather.com/en/th/mueang-chon-buri/317582/hourly-weather-forecast/317582?day=1&hbhhour=7&lang=en-us"
+  },
+  {
+    "DateTime": "2024-10-22T08:00:00+07:00",
+    "EpochDateTime": 1729558800,
+    "WeatherIcon": 6,
+    "IconPhrase": "Mostly cloudy",
+    "HasPrecipitation": false,
+    "IsDaylight": true,
+    "Temperature": {
+      "Value": 84,
+      "Unit": "F",
+      "UnitType": 18
+    },
+    "RealFeelTemperature": {
+      "Value": 94,
+      "Unit": "F",
+      "UnitType": 18,
+      "Phrase": "Hot"
+    },
+    "RealFeelTemperatureShade": {
+      "Value": 92,
+      "Unit": "F",
+      "UnitType": 18,
+      "Phrase": "Hot"
+    },
+    "WetBulbTemperature": {
+      "Value": 78,
+      "Unit": "F",
+      "UnitType": 18
+    },
+    "WetBulbGlobeTemperature": {
+      "Value": 82,
+      "Unit": "F",
+      "UnitType": 18
+    },
+    "DewPoint": {
+      "Value": 76,
+      "Unit": "F",
+      "UnitType": 18
+    },
+    "Wind": {
+      "Speed": {
+        "Value": 4.6,
+        "Unit": "mi/h",
+        "UnitType": 9
+      },
+      "Direction": {
+        "Degrees": 105,
+        "Localized": "ESE",
+        "English": "ESE"
+      }
+    },
+    "WindGust": {
+      "Speed": {
+        "Value": 10.4,
+        "Unit": "mi/h",
+        "UnitType": 9
+      }
+    },
+    "RelativeHumidity": 76,
+    "IndoorRelativeHumidity": 76,
+    "Visibility": {
+      "Value": 4,
+      "Unit": "mi",
+      "UnitType": 2
+    },
+    "Ceiling": {
+      "Value": 30000,
+      "Unit": "ft",
+      "UnitType": 0
+    },
+    "UVIndex": 2,
+    "UVIndexText": "Low",
+    "PrecipitationProbability": 34,
+    "ThunderstormProbability": 20,
+    "RainProbability": 34,
+    "SnowProbability": 0,
+    "IceProbability": 0,
+    "TotalLiquid": {
+      "Value": 0,
+      "Unit": "in",
+      "UnitType": 1
+    },
+    "Rain": {
+      "Value": 0,
+      "Unit": "in",
+      "UnitType": 1
+    },
+    "Snow": {
+      "Value": 0,
+      "Unit": "in",
+      "UnitType": 1
+    },
+    "Ice": {
+      "Value": 0,
+      "Unit": "in",
+      "UnitType": 1
+    },
+    "CloudCover": 78,
+    "Evapotranspiration": {
+      "Value": 0,
+      "Unit": "in",
+      "UnitType": 1
+    },
+    "SolarIrradiance": {
+      "Value": 276.4,
+      "Unit": "W/m²",
+      "UnitType": 33
+    },
+    "MobileLink": "http://www.accuweather.com/en/th/mueang-chon-buri/317582/hourly-weather-forecast/317582?day=1&hbhhour=8&lang=en-us",
+    "Link": "http://www.accuweather.com/en/th/mueang-chon-buri/317582/hourly-weather-forecast/317582?day=1&hbhhour=8&lang=en-us"
+  },
+  {
+    "DateTime": "2024-10-22T09:00:00+07:00",
+    "EpochDateTime": 1729562400,
+    "WeatherIcon": 4,
+    "IconPhrase": "Intermittent clouds",
+    "HasPrecipitation": false,
+    "IsDaylight": true,
+    "Temperature": {
+      "Value": 86,
+      "Unit": "F",
+      "UnitType": 18
+    },
+    "RealFeelTemperature": {
+      "Value": 97,
+      "Unit": "F",
+      "UnitType": 18,
+      "Phrase": "Hot"
+    },
+    "RealFeelTemperatureShade": {
+      "Value": 94,
+      "Unit": "F",
+      "UnitType": 18,
+      "Phrase": "Hot"
+    },
+    "WetBulbTemperature": {
+      "Value": 79,
+      "Unit": "F",
+      "UnitType": 18
+    },
+    "WetBulbGlobeTemperature": {
+      "Value": 84,
+      "Unit": "F",
+      "UnitType": 18
+    },
+    "DewPoint": {
+      "Value": 76,
+      "Unit": "F",
+      "UnitType": 18
+    },
+    "Wind": {
+      "Speed": {
+        "Value": 4.6,
+        "Unit": "mi/h",
+        "UnitType": 9
+      },
+      "Direction": {
+        "Degrees": 70,
+        "Localized": "ENE",
+        "English": "ENE"
+      }
+    },
+    "WindGust": {
+      "Speed": {
+        "Value": 11.5,
+        "Unit": "mi/h",
+        "UnitType": 9
+      }
+    },
+    "RelativeHumidity": 70,
+    "IndoorRelativeHumidity": 70,
+    "Visibility": {
+      "Value": 5,
+      "Unit": "mi",
+      "UnitType": 2
+    },
+    "Ceiling": {
+      "Value": 30000,
+      "Unit": "ft",
+      "UnitType": 0
+    },
+    "UVIndex": 3,
+    "UVIndexText": "Moderate",
+    "PrecipitationProbability": 37,
+    "ThunderstormProbability": 22,
+    "RainProbability": 37,
+    "SnowProbability": 0,
+    "IceProbability": 0,
+    "TotalLiquid": {
+      "Value": 0,
+      "Unit": "in",
+      "UnitType": 1
+    },
+    "Rain": {
+      "Value": 0,
+      "Unit": "in",
+      "UnitType": 1
+    },
+    "Snow": {
+      "Value": 0,
+      "Unit": "in",
+      "UnitType": 1
+    },
+    "Ice": {
+      "Value": 0,
+      "Unit": "in",
+      "UnitType": 1
+    },
+    "CloudCover": 66,
+    "Evapotranspiration": {
+      "Value": 0.01,
+      "Unit": "in",
+      "UnitType": 1
+    },
+    "SolarIrradiance": {
+      "Value": 524.6,
+      "Unit": "W/m²",
+      "UnitType": 33
+    },
+    "MobileLink": "http://www.accuweather.com/en/th/mueang-chon-buri/317582/hourly-weather-forecast/317582?day=1&hbhhour=9&lang=en-us",
+    "Link": "http://www.accuweather.com/en/th/mueang-chon-buri/317582/hourly-weather-forecast/317582?day=1&hbhhour=9&lang=en-us"
+  },
+  {
+    "DateTime": "2024-10-22T10:00:00+07:00",
+    "EpochDateTime": 1729566000,
+    "WeatherIcon": 4,
+    "IconPhrase": "Intermittent clouds",
+    "HasPrecipitation": false,
+    "IsDaylight": true,
+    "Temperature": {
+      "Value": 89,
+      "Unit": "F",
+      "UnitType": 18
+    },
+    "RealFeelTemperature": {
+      "Value": 101,
+      "Unit": "F",
+      "UnitType": 18,
+      "Phrase": "Very Hot"
+    },
+    "RealFeelTemperatureShade": {
+      "Value": 96,
+      "Unit": "F",
+      "UnitType": 18,
+      "Phrase": "Hot"
+    },
+    "WetBulbTemperature": {
+      "Value": 80,
+      "Unit": "F",
+      "UnitType": 18
+    },
+    "WetBulbGlobeTemperature": {
+      "Value": 85,
+      "Unit": "F",
+      "UnitType": 18
+    },
+    "DewPoint": {
+      "Value": 76,
+      "Unit": "F",
+      "UnitType": 18
+    },
+    "Wind": {
+      "Speed": {
+        "Value": 5.8,
+        "Unit": "mi/h",
+        "UnitType": 9
+      },
+      "Direction": {
+        "Degrees": 27,
+        "Localized": "NNE",
+        "English": "NNE"
+      }
+    },
+    "WindGust": {
+      "Speed": {
+        "Value": 12.7,
+        "Unit": "mi/h",
+        "UnitType": 9
+      }
+    },
+    "RelativeHumidity": 67,
+    "IndoorRelativeHumidity": 67,
+    "Visibility": {
+      "Value": 5,
+      "Unit": "mi",
+      "UnitType": 2
+    },
+    "Ceiling": {
+      "Value": 30000,
+      "Unit": "ft",
+      "UnitType": 0
+    },
+    "UVIndex": 5,
+    "UVIndexText": "Moderate",
+    "PrecipitationProbability": 43,
+    "ThunderstormProbability": 25,
+    "RainProbability": 43,
+    "SnowProbability": 0,
+    "IceProbability": 0,
+    "TotalLiquid": {
+      "Value": 0,
+      "Unit": "in",
+      "UnitType": 1
+    },
+    "Rain": {
+      "Value": 0,
+      "Unit": "in",
+      "UnitType": 1
+    },
+    "Snow": {
+      "Value": 0,
+      "Unit": "in",
+      "UnitType": 1
+    },
+    "Ice": {
+      "Value": 0,
+      "Unit": "in",
+      "UnitType": 1
+    },
+    "CloudCover": 55,
+    "Evapotranspiration": {
+      "Value": 0.01,
+      "Unit": "in",
+      "UnitType": 1
+    },
+    "SolarIrradiance": {
+      "Value": 742.2,
+      "Unit": "W/m²",
+      "UnitType": 33
+    },
+    "MobileLink": "http://www.accuweather.com/en/th/mueang-chon-buri/317582/hourly-weather-forecast/317582?day=1&hbhhour=10&lang=en-us",
+    "Link": "http://www.accuweather.com/en/th/mueang-chon-buri/317582/hourly-weather-forecast/317582?day=1&hbhhour=10&lang=en-us"
+  },
+  {
+    "DateTime": "2024-10-22T11:00:00+07:00",
+    "EpochDateTime": 1729569600,
+    "WeatherIcon": 4,
+    "IconPhrase": "Intermittent clouds",
+    "HasPrecipitation": false,
+    "IsDaylight": true,
+    "Temperature": {
+      "Value": 90,
+      "Unit": "F",
+      "UnitType": 18
+    },
+    "RealFeelTemperature": {
+      "Value": 102,
+      "Unit": "F",
+      "UnitType": 18,
+      "Phrase": "Very Hot"
+    },
+    "RealFeelTemperatureShade": {
+      "Value": 97,
+      "Unit": "F",
+      "UnitType": 18,
+      "Phrase": "Hot"
+    },
+    "WetBulbTemperature": {
+      "Value": 80,
+      "Unit": "F",
+      "UnitType": 18
+    },
+    "WetBulbGlobeTemperature": {
+      "Value": 86,
+      "Unit": "F",
+      "UnitType": 18
+    },
+    "DewPoint": {
+      "Value": 75,
+      "Unit": "F",
+      "UnitType": 18
+    },
+    "Wind": {
+      "Speed": {
+        "Value": 5.8,
+        "Unit": "mi/h",
+        "UnitType": 9
+      },
+      "Direction": {
+        "Degrees": 2,
+        "Localized": "N",
+        "English": "N"
+      }
+    },
+    "WindGust": {
+      "Speed": {
+        "Value": 12.7,
+        "Unit": "mi/h",
+        "UnitType": 9
+      }
+    },
+    "RelativeHumidity": 62,
+    "IndoorRelativeHumidity": 62,
+    "Visibility": {
+      "Value": 6,
+      "Unit": "mi",
+      "UnitType": 2
+    },
+    "Ceiling": {
+      "Value": 30000,
+      "Unit": "ft",
+      "UnitType": 0
+    },
+    "UVIndex": 7,
+    "UVIndexText": "High",
+    "PrecipitationProbability": 47,
+    "ThunderstormProbability": 28,
+    "RainProbability": 47,
+    "SnowProbability": 0,
+    "IceProbability": 0,
+    "TotalLiquid": {
+      "Value": 0,
+      "Unit": "in",
+      "UnitType": 1
+    },
+    "Rain": {
+      "Value": 0,
+      "Unit": "in",
+      "UnitType": 1
+    },
+    "Snow": {
+      "Value": 0,
+      "Unit": "in",
+      "UnitType": 1
+    },
+    "Ice": {
+      "Value": 0,
+      "Unit": "in",
+      "UnitType": 1
+    },
+    "CloudCover": 62,
+    "Evapotranspiration": {
+      "Value": 0.02,
+      "Unit": "in",
+      "UnitType": 1
+    },
+    "SolarIrradiance": {
+      "Value": 773.6,
+      "Unit": "W/m²",
+      "UnitType": 33
+    },
+    "MobileLink": "http://www.accuweather.com/en/th/mueang-chon-buri/317582/hourly-weather-forecast/317582?day=1&hbhhour=11&lang=en-us",
+    "Link": "http://www.accuweather.com/en/th/mueang-chon-buri/317582/hourly-weather-forecast/317582?day=1&hbhhour=11&lang=en-us"
+  },
+  {
+    "DateTime": "2024-10-22T12:00:00+07:00",
+    "EpochDateTime": 1729573200,
+    "WeatherIcon": 16,
+    "IconPhrase": "Mostly cloudy w/ t-storms",
+    "HasPrecipitation": true,
+    "PrecipitationType": "Rain",
+    "PrecipitationIntensity": "Light",
+    "IsDaylight": true,
+    "Temperature": {
+      "Value": 90,
+      "Unit": "F",
+      "UnitType": 18
+    },
+    "RealFeelTemperature": {
+      "Value": 100,
+      "Unit": "F",
+      "UnitType": 18,
+      "Phrase": "Hot"
+    },
+    "RealFeelTemperatureShade": {
+      "Value": 96,
+      "Unit": "F",
+      "UnitType": 18,
+      "Phrase": "Hot"
+    },
+    "WetBulbTemperature": {
+      "Value": 80,
+      "Unit": "F",
+      "UnitType": 18
+    },
+    "WetBulbGlobeTemperature": {
+      "Value": 86,
+      "Unit": "F",
+      "UnitType": 18
+    },
+    "DewPoint": {
+      "Value": 75,
+      "Unit": "F",
+      "UnitType": 18
+    },
+    "Wind": {
+      "Speed": {
+        "Value": 5.8,
+        "Unit": "mi/h",
+        "UnitType": 9
+      },
+      "Direction": {
+        "Degrees": 343,
+        "Localized": "NNW",
+        "English": "NNW"
+      }
+    },
+    "WindGust": {
+      "Speed": {
+        "Value": 12.7,
+        "Unit": "mi/h",
+        "UnitType": 9
+      }
+    },
+    "RelativeHumidity": 61,
+    "IndoorRelativeHumidity": 61,
+    "Visibility": {
+      "Value": 6,
+      "Unit": "mi",
+      "UnitType": 2
+    },
+    "Ceiling": {
+      "Value": 1800,
+      "Unit": "ft",
+      "UnitType": 0
+    },
+    "UVIndex": 3,
+    "UVIndexText": "Moderate",
+    "PrecipitationProbability": 51,
+    "ThunderstormProbability": 30,
+    "RainProbability": 51,
+    "SnowProbability": 0,
+    "IceProbability": 0,
+    "TotalLiquid": {
+      "Value": 0.01,
+      "Unit": "in",
+      "UnitType": 1
+    },
+    "Rain": {
+      "Value": 0.01,
+      "Unit": "in",
+      "UnitType": 1
+    },
+    "Snow": {
+      "Value": 0,
+      "Unit": "in",
+      "UnitType": 1
+    },
+    "Ice": {
+      "Value": 0,
+      "Unit": "in",
+      "UnitType": 1
+    },
+    "CloudCover": 70,
+    "Evapotranspiration": {
+      "Value": 0.02,
+      "Unit": "in",
+      "UnitType": 1
+    },
+    "SolarIrradiance": {
+      "Value": 708.1,
+      "Unit": "W/m²",
+      "UnitType": 33
+    },
+    "MobileLink": "http://www.accuweather.com/en/th/mueang-chon-buri/317582/hourly-weather-forecast/317582?day=1&hbhhour=12&lang=en-us",
+    "Link": "http://www.accuweather.com/en/th/mueang-chon-buri/317582/hourly-weather-forecast/317582?day=1&hbhhour=12&lang=en-us"
+  },
+  {
+    "DateTime": "2024-10-22T13:00:00+07:00",
+    "EpochDateTime": 1729576800,
+    "WeatherIcon": 6,
+    "IconPhrase": "Mostly cloudy",
+    "HasPrecipitation": false,
+    "IsDaylight": true,
+    "Temperature": {
+      "Value": 93,
+      "Unit": "F",
+      "UnitType": 18
+    },
+    "RealFeelTemperature": {
+      "Value": 104,
+      "Unit": "F",
+      "UnitType": 18,
+      "Phrase": "Very Hot"
+    },
+    "RealFeelTemperatureShade": {
+      "Value": 100,
+      "Unit": "F",
+      "UnitType": 18,
+      "Phrase": "Hot"
+    },
+    "WetBulbTemperature": {
+      "Value": 81,
+      "Unit": "F",
+      "UnitType": 18
+    },
+    "WetBulbGlobeTemperature": {
+      "Value": 87,
+      "Unit": "F",
+      "UnitType": 18
+    },
+    "DewPoint": {
+      "Value": 76,
+      "Unit": "F",
+      "UnitType": 18
+    },
+    "Wind": {
+      "Speed": {
+        "Value": 5.8,
+        "Unit": "mi/h",
+        "UnitType": 9
+      },
+      "Direction": {
+        "Degrees": 330,
+        "Localized": "NNW",
+        "English": "NNW"
+      }
+    },
+    "WindGust": {
+      "Speed": {
+        "Value": 13.8,
+        "Unit": "mi/h",
+        "UnitType": 9
+      }
+    },
+    "RelativeHumidity": 58,
+    "IndoorRelativeHumidity": 58,
+    "Visibility": {
+      "Value": 7,
+      "Unit": "mi",
+      "UnitType": 2
+    },
+    "Ceiling": {
+      "Value": 1800,
+      "Unit": "ft",
+      "UnitType": 0
+    },
+    "UVIndex": 3,
+    "UVIndexText": "Moderate",
+    "PrecipitationProbability": 49,
+    "ThunderstormProbability": 29,
+    "RainProbability": 49,
+    "SnowProbability": 0,
+    "IceProbability": 0,
+    "TotalLiquid": {
+      "Value": 0,
+      "Unit": "in",
+      "UnitType": 1
+    },
+    "Rain": {
+      "Value": 0,
+      "Unit": "in",
+      "UnitType": 1
+    },
+    "Snow": {
+      "Value": 0,
+      "Unit": "in",
+      "UnitType": 1
+    },
+    "Ice": {
+      "Value": 0,
+      "Unit": "in",
+      "UnitType": 1
+    },
+    "CloudCover": 75,
+    "Evapotranspiration": {
+      "Value": 0.02,
+      "Unit": "in",
+      "UnitType": 1
+    },
+    "SolarIrradiance": {
+      "Value": 611.6,
+      "Unit": "W/m²",
+      "UnitType": 33
+    },
+    "MobileLink": "http://www.accuweather.com/en/th/mueang-chon-buri/317582/hourly-weather-forecast/317582?day=1&hbhhour=13&lang=en-us",
+    "Link": "http://www.accuweather.com/en/th/mueang-chon-buri/317582/hourly-weather-forecast/317582?day=1&hbhhour=13&lang=en-us"
+  },
+  {
+    "DateTime": "2024-10-22T14:00:00+07:00",
+    "EpochDateTime": 1729580400,
+    "WeatherIcon": 15,
+    "IconPhrase": "Thunderstorms",
+    "HasPrecipitation": true,
+    "PrecipitationType": "Rain",
+    "PrecipitationIntensity": "Moderate",
+    "IsDaylight": true,
+    "Temperature": {
+      "Value": 90,
+      "Unit": "F",
+      "UnitType": 18
+    },
+    "RealFeelTemperature": {
+      "Value": 99,
+      "Unit": "F",
+      "UnitType": 18,
+      "Phrase": "Hot"
+    },
+    "RealFeelTemperatureShade": {
+      "Value": 97,
+      "Unit": "F",
+      "UnitType": 18,
+      "Phrase": "Hot"
+    },
+    "WetBulbTemperature": {
+      "Value": 80,
+      "Unit": "F",
+      "UnitType": 18
+    },
+    "WetBulbGlobeTemperature": {
+      "Value": 86,
+      "Unit": "F",
+      "UnitType": 18
+    },
+    "DewPoint": {
+      "Value": 76,
+      "Unit": "F",
+      "UnitType": 18
+    },
+    "Wind": {
+      "Speed": {
+        "Value": 5.8,
+        "Unit": "mi/h",
+        "UnitType": 9
+      },
+      "Direction": {
+        "Degrees": 321,
+        "Localized": "NW",
+        "English": "NW"
+      }
+    },
+    "WindGust": {
+      "Speed": {
+        "Value": 12.7,
+        "Unit": "mi/h",
+        "UnitType": 9
+      }
+    },
+    "RelativeHumidity": 63,
+    "IndoorRelativeHumidity": 63,
+    "Visibility": {
+      "Value": 5,
+      "Unit": "mi",
+      "UnitType": 2
+    },
+    "Ceiling": {
+      "Value": 1700,
+      "Unit": "ft",
+      "UnitType": 0
+    },
+    "UVIndex": 1,
+    "UVIndexText": "Low",
+    "PrecipitationProbability": 61,
+    "ThunderstormProbability": 36,
+    "RainProbability": 61,
+    "SnowProbability": 0,
+    "IceProbability": 0,
+    "TotalLiquid": {
+      "Value": 0.06,
+      "Unit": "in",
+      "UnitType": 1
+    },
+    "Rain": {
+      "Value": 0.06,
+      "Unit": "in",
+      "UnitType": 1
+    },
+    "Snow": {
+      "Value": 0,
+      "Unit": "in",
+      "UnitType": 1
+    },
+    "Ice": {
+      "Value": 0,
+      "Unit": "in",
+      "UnitType": 1
+    },
+    "CloudCover": 81,
+    "Evapotranspiration": {
+      "Value": 0.01,
+      "Unit": "in",
+      "UnitType": 1
+    },
+    "SolarIrradiance": {
+      "Value": 454.3,
+      "Unit": "W/m²",
+      "UnitType": 33
+    },
+    "MobileLink": "http://www.accuweather.com/en/th/mueang-chon-buri/317582/hourly-weather-forecast/317582?day=1&hbhhour=14&lang=en-us",
+    "Link": "http://www.accuweather.com/en/th/mueang-chon-buri/317582/hourly-weather-forecast/317582?day=1&hbhhour=14&lang=en-us"
+  },
+  null,
+  null,
+  null,
+  null,
+  null,
+  null,
+  null,
+  null,
+  null
+]
