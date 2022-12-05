@@ -1,0 +1,548 @@
+[
+  {
+    "time": 0,
+    "city": "ชลบุรี",
+    "weather": "Cloudy",
+    "types": "Fairy, Fighting, Poison",
+    "order": 7
+  },
+  {
+    "time": 1,
+    "city": "ชลบุรี",
+    "weather": "Cloudy",
+    "types": "Fairy, Fighting, Poison",
+    "order": 8
+  },
+  {
+    "time": 2,
+    "city": "ชลบุรี",
+    "weather": "Cloudy",
+    "types": "Fairy, Fighting, Poison",
+    "order": 9
+  },
+  {
+    "time": 3,
+    "city": "ชลบุรี",
+    "weather": "Cloudy",
+    "types": "Fairy, Fighting, Poison",
+    "order": 10
+  },
+  {
+    "time": 4,
+    "city": "ชลบุรี",
+    "weather": "Cloudy",
+    "types": "Fairy, Fighting, Poison",
+    "order": 11
+  },
+  {
+    "time": 5,
+    "city": "ชลบุรี",
+    "weather": "Cloudy",
+    "types": "Fairy, Fighting, Poison",
+    "order": 12
+  },
+  {
+    "time": 17,
+    "city": "ชลบุรี",
+    "weather": null,
+    "types": "Fairy, Fighting, Poison",
+    "order": 0
+  },
+  {
+    "time": 18,
+    "city": "ชลบุรี",
+    "weather": null,
+    "types": "Fairy, Fighting, Poison",
+    "order": 1
+  },
+  {
+    "time": 19,
+    "city": "ชลบุรี",
+    "weather": null,
+    "types": "Fairy, Fighting, Poison",
+    "order": 2
+  },
+  {
+    "time": 20,
+    "city": "ชลบุรี",
+    "weather": null,
+    "types": "Fairy, Fighting, Poison",
+    "order": 3
+  },
+  {
+    "time": 21,
+    "city": "ชลบุรี",
+    "weather": null,
+    "types": "Fairy, Fighting, Poison",
+    "order": 4
+  },
+  {
+    "time": 22,
+    "city": "ชลบุรี",
+    "weather": null,
+    "types": "Fairy, Fighting, Poison",
+    "order": 5
+  },
+  {
+    "time": 23,
+    "city": "ชลบุรี",
+    "weather": "Cloudy",
+    "types": "Fairy, Fighting, Poison",
+    "order": 6
+  },
+  {
+    "time": 0,
+    "city": "นนทบุรี",
+    "weather": "Cloudy",
+    "types": "Fairy, Fighting, Poison",
+    "order": 7
+  },
+  {
+    "time": 1,
+    "city": "นนทบุรี",
+    "weather": "Cloudy",
+    "types": "Fairy, Fighting, Poison",
+    "order": 8
+  },
+  {
+    "time": 2,
+    "city": "นนทบุรี",
+    "weather": "Cloudy",
+    "types": "Fairy, Fighting, Poison",
+    "order": 9
+  },
+  {
+    "time": 3,
+    "city": "นนทบุรี",
+    "weather": "Cloudy",
+    "types": "Fairy, Fighting, Poison",
+    "order": 10
+  },
+  {
+    "time": 4,
+    "city": "นนทบุรี",
+    "weather": "Cloudy",
+    "types": "Fairy, Fighting, Poison",
+    "order": 11
+  },
+  {
+    "time": 5,
+    "city": "นนทบุรี",
+    "weather": "Cloudy",
+    "types": "Fairy, Fighting, Poison",
+    "order": 12
+  },
+  {
+    "time": 17,
+    "city": "นนทบุรี",
+    "weather": null,
+    "types": "Fairy, Fighting, Poison",
+    "order": 0
+  },
+  {
+    "time": 18,
+    "city": "นนทบุรี",
+    "weather": null,
+    "types": "Fairy, Fighting, Poison",
+    "order": 1
+  },
+  {
+    "time": 19,
+    "city": "นนทบุรี",
+    "weather": null,
+    "types": "Water, Electric, Bug",
+    "order": 2
+  },
+  {
+    "time": 20,
+    "city": "นนทบุรี",
+    "weather": null,
+    "types": "Fairy, Fighting, Poison",
+    "order": 3
+  },
+  {
+    "time": 21,
+    "city": "นนทบุรี",
+    "weather": null,
+    "types": "Fairy, Fighting, Poison",
+    "order": 4
+  },
+  {
+    "time": 22,
+    "city": "นนทบุรี",
+    "weather": null,
+    "types": "Water, Electric, Bug",
+    "order": 5
+  },
+  {
+    "time": 23,
+    "city": "นนทบุรี",
+    "weather": "Cloudy",
+    "types": "Fairy, Fighting, Poison",
+    "order": 6
+  },
+  {
+    "time": 0,
+    "city": "รามคำแหง",
+    "weather": "Cloudy",
+    "types": "Fairy, Fighting, Poison",
+    "order": 7
+  },
+  {
+    "time": 1,
+    "city": "รามคำแหง",
+    "weather": "Cloudy",
+    "types": "Fairy, Fighting, Poison",
+    "order": 8
+  },
+  {
+    "time": 2,
+    "city": "รามคำแหง",
+    "weather": "Cloudy",
+    "types": "Fairy, Fighting, Poison",
+    "order": 9
+  },
+  {
+    "time": 3,
+    "city": "รามคำแหง",
+    "weather": "Cloudy",
+    "types": "Fairy, Fighting, Poison",
+    "order": 10
+  },
+  {
+    "time": 4,
+    "city": "รามคำแหง",
+    "weather": "Cloudy",
+    "types": "Fairy, Fighting, Poison",
+    "order": 11
+  },
+  {
+    "time": 5,
+    "city": "รามคำแหง",
+    "weather": "Cloudy",
+    "types": "Fairy, Fighting, Poison",
+    "order": 12
+  },
+  {
+    "time": 17,
+    "city": "รามคำแหง",
+    "weather": null,
+    "types": "Fairy, Fighting, Poison",
+    "order": 0
+  },
+  {
+    "time": 18,
+    "city": "รามคำแหง",
+    "weather": null,
+    "types": "Fairy, Fighting, Poison",
+    "order": 1
+  },
+  {
+    "time": 19,
+    "city": "รามคำแหง",
+    "weather": null,
+    "types": "Fairy, Fighting, Poison",
+    "order": 2
+  },
+  {
+    "time": 20,
+    "city": "รามคำแหง",
+    "weather": null,
+    "types": "Water, Electric, Bug",
+    "order": 3
+  },
+  {
+    "time": 21,
+    "city": "รามคำแหง",
+    "weather": null,
+    "types": "Fairy, Fighting, Poison",
+    "order": 4
+  },
+  {
+    "time": 22,
+    "city": "รามคำแหง",
+    "weather": null,
+    "types": "Fairy, Fighting, Poison",
+    "order": 5
+  },
+  {
+    "time": 23,
+    "city": "รามคำแหง",
+    "weather": "Cloudy",
+    "types": "Fairy, Fighting, Poison",
+    "order": 6
+  },
+  {
+    "time": 0,
+    "city": "กรุงเทพ",
+    "weather": "Cloudy",
+    "types": "Fairy, Fighting, Poison",
+    "order": 7
+  },
+  {
+    "time": 1,
+    "city": "กรุงเทพ",
+    "weather": "Cloudy",
+    "types": "Fairy, Fighting, Poison",
+    "order": 8
+  },
+  {
+    "time": 2,
+    "city": "กรุงเทพ",
+    "weather": "Cloudy",
+    "types": "Fairy, Fighting, Poison",
+    "order": 9
+  },
+  {
+    "time": 3,
+    "city": "กรุงเทพ",
+    "weather": "Cloudy",
+    "types": "Fairy, Fighting, Poison",
+    "order": 10
+  },
+  {
+    "time": 4,
+    "city": "กรุงเทพ",
+    "weather": "Cloudy",
+    "types": "Fairy, Fighting, Poison",
+    "order": 11
+  },
+  {
+    "time": 5,
+    "city": "กรุงเทพ",
+    "weather": "Cloudy",
+    "types": "Fairy, Fighting, Poison",
+    "order": 12
+  },
+  {
+    "time": 17,
+    "city": "กรุงเทพ",
+    "weather": null,
+    "types": "Fairy, Fighting, Poison",
+    "order": 0
+  },
+  {
+    "time": 18,
+    "city": "กรุงเทพ",
+    "weather": null,
+    "types": "Fairy, Fighting, Poison",
+    "order": 1
+  },
+  {
+    "time": 19,
+    "city": "กรุงเทพ",
+    "weather": null,
+    "types": "Fairy, Fighting, Poison",
+    "order": 2
+  },
+  {
+    "time": 20,
+    "city": "กรุงเทพ",
+    "weather": null,
+    "types": "Water, Electric, Bug",
+    "order": 3
+  },
+  {
+    "time": 21,
+    "city": "กรุงเทพ",
+    "weather": null,
+    "types": "Fairy, Fighting, Poison",
+    "order": 4
+  },
+  {
+    "time": 22,
+    "city": "กรุงเทพ",
+    "weather": null,
+    "types": "Fairy, Fighting, Poison",
+    "order": 5
+  },
+  {
+    "time": 23,
+    "city": "กรุงเทพ",
+    "weather": "Rain",
+    "types": "Water, Electric, Bug",
+    "order": 6
+  },
+  {
+    "time": 0,
+    "city": "สมุทรปราการ",
+    "weather": "Cloudy",
+    "types": "Fairy, Fighting, Poison",
+    "order": 7
+  },
+  {
+    "time": 1,
+    "city": "สมุทรปราการ",
+    "weather": "Cloudy",
+    "types": "Fairy, Fighting, Poison",
+    "order": 8
+  },
+  {
+    "time": 2,
+    "city": "สมุทรปราการ",
+    "weather": "Cloudy",
+    "types": "Fairy, Fighting, Poison",
+    "order": 9
+  },
+  {
+    "time": 3,
+    "city": "สมุทรปราการ",
+    "weather": "Cloudy",
+    "types": "Fairy, Fighting, Poison",
+    "order": 10
+  },
+  {
+    "time": 4,
+    "city": "สมุทรปราการ",
+    "weather": "Cloudy",
+    "types": "Fairy, Fighting, Poison",
+    "order": 11
+  },
+  {
+    "time": 5,
+    "city": "สมุทรปราการ",
+    "weather": "Cloudy",
+    "types": "Fairy, Fighting, Poison",
+    "order": 12
+  },
+  {
+    "time": 17,
+    "city": "สมุทรปราการ",
+    "weather": null,
+    "types": "Fairy, Fighting, Poison",
+    "order": 0
+  },
+  {
+    "time": 18,
+    "city": "สมุทรปราการ",
+    "weather": null,
+    "types": "Fairy, Fighting, Poison",
+    "order": 1
+  },
+  {
+    "time": 19,
+    "city": "สมุทรปราการ",
+    "weather": null,
+    "types": "Fairy, Fighting, Poison",
+    "order": 2
+  },
+  {
+    "time": 20,
+    "city": "สมุทรปราการ",
+    "weather": null,
+    "types": "Water, Electric, Bug",
+    "order": 3
+  },
+  {
+    "time": 21,
+    "city": "สมุทรปราการ",
+    "weather": null,
+    "types": "Fairy, Fighting, Poison",
+    "order": 4
+  },
+  {
+    "time": 22,
+    "city": "สมุทรปราการ",
+    "weather": null,
+    "types": "Fairy, Fighting, Poison",
+    "order": 5
+  },
+  {
+    "time": 23,
+    "city": "สมุทรปราการ",
+    "weather": "Cloudy",
+    "types": "Fairy, Fighting, Poison",
+    "order": 6
+  },
+  {
+    "time": 0,
+    "city": "บางพลี",
+    "weather": "Cloudy",
+    "types": "Fairy, Fighting, Poison",
+    "order": 7
+  },
+  {
+    "time": 1,
+    "city": "บางพลี",
+    "weather": "Cloudy",
+    "types": "Fairy, Fighting, Poison",
+    "order": 8
+  },
+  {
+    "time": 2,
+    "city": "บางพลี",
+    "weather": "Cloudy",
+    "types": "Fairy, Fighting, Poison",
+    "order": 9
+  },
+  {
+    "time": 3,
+    "city": "บางพลี",
+    "weather": "Cloudy",
+    "types": "Fairy, Fighting, Poison",
+    "order": 10
+  },
+  {
+    "time": 4,
+    "city": "บางพลี",
+    "weather": "Cloudy",
+    "types": "Fairy, Fighting, Poison",
+    "order": 11
+  },
+  {
+    "time": 5,
+    "city": "บางพลี",
+    "weather": "Cloudy",
+    "types": "Fairy, Fighting, Poison",
+    "order": 12
+  },
+  {
+    "time": 17,
+    "city": "บางพลี",
+    "weather": null,
+    "types": "Fairy, Fighting, Poison",
+    "order": 0
+  },
+  {
+    "time": 18,
+    "city": "บางพลี",
+    "weather": null,
+    "types": "Fairy, Fighting, Poison",
+    "order": 1
+  },
+  {
+    "time": 19,
+    "city": "บางพลี",
+    "weather": null,
+    "types": "Fairy, Fighting, Poison",
+    "order": 2
+  },
+  {
+    "time": 20,
+    "city": "บางพลี",
+    "weather": null,
+    "types": "Water, Electric, Bug",
+    "order": 3
+  },
+  {
+    "time": 21,
+    "city": "บางพลี",
+    "weather": null,
+    "types": "Fairy, Fighting, Poison",
+    "order": 4
+  },
+  {
+    "time": 22,
+    "city": "บางพลี",
+    "weather": null,
+    "types": "Fairy, Fighting, Poison",
+    "order": 5
+  },
+  {
+    "time": 23,
+    "city": "บางพลี",
+    "weather": "Cloudy",
+    "types": "Fairy, Fighting, Poison",
+    "order": 6
+  }
+]
