@@ -1,0 +1,1490 @@
+[
+  {
+    "DateTime": "2025-08-17T00:00:00+07:00",
+    "EpochDateTime": 1755363600,
+    "WeatherIcon": 7,
+    "IconPhrase": "Cloudy",
+    "HasPrecipitation": false,
+    "IsDaylight": false,
+    "Temperature": {
+      "Value": 81,
+      "Unit": "F",
+      "UnitType": 18
+    },
+    "RealFeelTemperature": {
+      "Value": 85,
+      "Unit": "F",
+      "UnitType": 18,
+      "Phrase": "Very Warm"
+    },
+    "RealFeelTemperatureShade": {
+      "Value": 85,
+      "Unit": "F",
+      "UnitType": 18,
+      "Phrase": "Very Warm"
+    },
+    "WetBulbTemperature": {
+      "Value": 75,
+      "Unit": "F",
+      "UnitType": 18
+    },
+    "WetBulbGlobeTemperature": {
+      "Value": 77,
+      "Unit": "F",
+      "UnitType": 18
+    },
+    "DewPoint": {
+      "Value": 72,
+      "Unit": "F",
+      "UnitType": 18
+    },
+    "Wind": {
+      "Speed": {
+        "Value": 8.1,
+        "Unit": "mi/h",
+        "UnitType": 9
+      },
+      "Direction": {
+        "Degrees": 201,
+        "Localized": "SSW",
+        "English": "SSW"
+      }
+    },
+    "WindGust": {
+      "Speed": {
+        "Value": 8.1,
+        "Unit": "mi/h",
+        "UnitType": 9
+      }
+    },
+    "RelativeHumidity": 75,
+    "IndoorRelativeHumidity": 75,
+    "Visibility": {
+      "Value": 5,
+      "Unit": "mi",
+      "UnitType": 2
+    },
+    "Ceiling": {
+      "Value": 6600,
+      "Unit": "ft",
+      "UnitType": 0
+    },
+    "UVIndex": 0,
+    "UVIndexFloat": 0,
+    "UVIndexText": "Low",
+    "PrecipitationProbability": 47,
+    "ThunderstormProbability": 11,
+    "RainProbability": 47,
+    "SnowProbability": 0,
+    "IceProbability": 0,
+    "TotalLiquid": {
+      "Value": 0,
+      "Unit": "in",
+      "UnitType": 1
+    },
+    "Rain": {
+      "Value": 0,
+      "Unit": "in",
+      "UnitType": 1
+    },
+    "Snow": {
+      "Value": 0,
+      "Unit": "in",
+      "UnitType": 1
+    },
+    "Ice": {
+      "Value": 0,
+      "Unit": "in",
+      "UnitType": 1
+    },
+    "CloudCover": 100,
+    "Evapotranspiration": {
+      "Value": 0,
+      "Unit": "in",
+      "UnitType": 1
+    },
+    "SolarIrradiance": {
+      "Value": 0,
+      "Unit": "W/m²",
+      "UnitType": 33
+    },
+    "AccuLumenBrightnessIndex": 0,
+    "MobileLink": "http://www.accuweather.com/en/th/bangkok/318849/hourly-weather-forecast/318849?day=2&hbhhour=0&lang=en-us",
+    "Link": "http://www.accuweather.com/en/th/bangkok/318849/hourly-weather-forecast/318849?day=2&hbhhour=0&lang=en-us"
+  },
+  {
+    "DateTime": "2025-08-17T01:00:00+07:00",
+    "EpochDateTime": 1755367200,
+    "WeatherIcon": 7,
+    "IconPhrase": "Cloudy",
+    "HasPrecipitation": false,
+    "IsDaylight": false,
+    "Temperature": {
+      "Value": 81,
+      "Unit": "F",
+      "UnitType": 18
+    },
+    "RealFeelTemperature": {
+      "Value": 85,
+      "Unit": "F",
+      "UnitType": 18,
+      "Phrase": "Very Warm"
+    },
+    "RealFeelTemperatureShade": {
+      "Value": 85,
+      "Unit": "F",
+      "UnitType": 18,
+      "Phrase": "Very Warm"
+    },
+    "WetBulbTemperature": {
+      "Value": 75,
+      "Unit": "F",
+      "UnitType": 18
+    },
+    "WetBulbGlobeTemperature": {
+      "Value": 77,
+      "Unit": "F",
+      "UnitType": 18
+    },
+    "DewPoint": {
+      "Value": 72,
+      "Unit": "F",
+      "UnitType": 18
+    },
+    "Wind": {
+      "Speed": {
+        "Value": 8.1,
+        "Unit": "mi/h",
+        "UnitType": 9
+      },
+      "Direction": {
+        "Degrees": 200,
+        "Localized": "SSW",
+        "English": "SSW"
+      }
+    },
+    "WindGust": {
+      "Speed": {
+        "Value": 8.1,
+        "Unit": "mi/h",
+        "UnitType": 9
+      }
+    },
+    "RelativeHumidity": 75,
+    "IndoorRelativeHumidity": 75,
+    "Visibility": {
+      "Value": 5,
+      "Unit": "mi",
+      "UnitType": 2
+    },
+    "Ceiling": {
+      "Value": 6600,
+      "Unit": "ft",
+      "UnitType": 0
+    },
+    "UVIndex": 0,
+    "UVIndexFloat": 0,
+    "UVIndexText": "Low",
+    "PrecipitationProbability": 20,
+    "ThunderstormProbability": 4,
+    "RainProbability": 20,
+    "SnowProbability": 0,
+    "IceProbability": 0,
+    "TotalLiquid": {
+      "Value": 0,
+      "Unit": "in",
+      "UnitType": 1
+    },
+    "Rain": {
+      "Value": 0,
+      "Unit": "in",
+      "UnitType": 1
+    },
+    "Snow": {
+      "Value": 0,
+      "Unit": "in",
+      "UnitType": 1
+    },
+    "Ice": {
+      "Value": 0,
+      "Unit": "in",
+      "UnitType": 1
+    },
+    "CloudCover": 100,
+    "Evapotranspiration": {
+      "Value": 0,
+      "Unit": "in",
+      "UnitType": 1
+    },
+    "SolarIrradiance": {
+      "Value": 0,
+      "Unit": "W/m²",
+      "UnitType": 33
+    },
+    "AccuLumenBrightnessIndex": 0,
+    "MobileLink": "http://www.accuweather.com/en/th/bangkok/318849/hourly-weather-forecast/318849?day=2&hbhhour=1&lang=en-us",
+    "Link": "http://www.accuweather.com/en/th/bangkok/318849/hourly-weather-forecast/318849?day=2&hbhhour=1&lang=en-us"
+  },
+  {
+    "DateTime": "2025-08-17T02:00:00+07:00",
+    "EpochDateTime": 1755370800,
+    "WeatherIcon": 7,
+    "IconPhrase": "Cloudy",
+    "HasPrecipitation": false,
+    "IsDaylight": false,
+    "Temperature": {
+      "Value": 80,
+      "Unit": "F",
+      "UnitType": 18
+    },
+    "RealFeelTemperature": {
+      "Value": 85,
+      "Unit": "F",
+      "UnitType": 18,
+      "Phrase": "Very Warm"
+    },
+    "RealFeelTemperatureShade": {
+      "Value": 85,
+      "Unit": "F",
+      "UnitType": 18,
+      "Phrase": "Very Warm"
+    },
+    "WetBulbTemperature": {
+      "Value": 75,
+      "Unit": "F",
+      "UnitType": 18
+    },
+    "WetBulbGlobeTemperature": {
+      "Value": 77,
+      "Unit": "F",
+      "UnitType": 18
+    },
+    "DewPoint": {
+      "Value": 72,
+      "Unit": "F",
+      "UnitType": 18
+    },
+    "Wind": {
+      "Speed": {
+        "Value": 6.9,
+        "Unit": "mi/h",
+        "UnitType": 9
+      },
+      "Direction": {
+        "Degrees": 204,
+        "Localized": "SSW",
+        "English": "SSW"
+      }
+    },
+    "WindGust": {
+      "Speed": {
+        "Value": 8.1,
+        "Unit": "mi/h",
+        "UnitType": 9
+      }
+    },
+    "RelativeHumidity": 77,
+    "IndoorRelativeHumidity": 77,
+    "Visibility": {
+      "Value": 5,
+      "Unit": "mi",
+      "UnitType": 2
+    },
+    "Ceiling": {
+      "Value": 6500,
+      "Unit": "ft",
+      "UnitType": 0
+    },
+    "UVIndex": 0,
+    "UVIndexFloat": 0,
+    "UVIndexText": "Low",
+    "PrecipitationProbability": 20,
+    "ThunderstormProbability": 4,
+    "RainProbability": 20,
+    "SnowProbability": 0,
+    "IceProbability": 0,
+    "TotalLiquid": {
+      "Value": 0,
+      "Unit": "in",
+      "UnitType": 1
+    },
+    "Rain": {
+      "Value": 0,
+      "Unit": "in",
+      "UnitType": 1
+    },
+    "Snow": {
+      "Value": 0,
+      "Unit": "in",
+      "UnitType": 1
+    },
+    "Ice": {
+      "Value": 0,
+      "Unit": "in",
+      "UnitType": 1
+    },
+    "CloudCover": 99,
+    "Evapotranspiration": {
+      "Value": 0,
+      "Unit": "in",
+      "UnitType": 1
+    },
+    "SolarIrradiance": {
+      "Value": 0,
+      "Unit": "W/m²",
+      "UnitType": 33
+    },
+    "AccuLumenBrightnessIndex": 0,
+    "MobileLink": "http://www.accuweather.com/en/th/bangkok/318849/hourly-weather-forecast/318849?day=2&hbhhour=2&lang=en-us",
+    "Link": "http://www.accuweather.com/en/th/bangkok/318849/hourly-weather-forecast/318849?day=2&hbhhour=2&lang=en-us"
+  },
+  {
+    "DateTime": "2025-08-17T03:00:00+07:00",
+    "EpochDateTime": 1755374400,
+    "WeatherIcon": 7,
+    "IconPhrase": "Cloudy",
+    "HasPrecipitation": false,
+    "IsDaylight": false,
+    "Temperature": {
+      "Value": 80,
+      "Unit": "F",
+      "UnitType": 18
+    },
+    "RealFeelTemperature": {
+      "Value": 85,
+      "Unit": "F",
+      "UnitType": 18,
+      "Phrase": "Very Warm"
+    },
+    "RealFeelTemperatureShade": {
+      "Value": 85,
+      "Unit": "F",
+      "UnitType": 18,
+      "Phrase": "Very Warm"
+    },
+    "WetBulbTemperature": {
+      "Value": 75,
+      "Unit": "F",
+      "UnitType": 18
+    },
+    "WetBulbGlobeTemperature": {
+      "Value": 77,
+      "Unit": "F",
+      "UnitType": 18
+    },
+    "DewPoint": {
+      "Value": 73,
+      "Unit": "F",
+      "UnitType": 18
+    },
+    "Wind": {
+      "Speed": {
+        "Value": 5.8,
+        "Unit": "mi/h",
+        "UnitType": 9
+      },
+      "Direction": {
+        "Degrees": 213,
+        "Localized": "SSW",
+        "English": "SSW"
+      }
+    },
+    "WindGust": {
+      "Speed": {
+        "Value": 8.1,
+        "Unit": "mi/h",
+        "UnitType": 9
+      }
+    },
+    "RelativeHumidity": 78,
+    "IndoorRelativeHumidity": 78,
+    "Visibility": {
+      "Value": 5,
+      "Unit": "mi",
+      "UnitType": 2
+    },
+    "Ceiling": {
+      "Value": 6500,
+      "Unit": "ft",
+      "UnitType": 0
+    },
+    "UVIndex": 0,
+    "UVIndexFloat": 0,
+    "UVIndexText": "Low",
+    "PrecipitationProbability": 20,
+    "ThunderstormProbability": 4,
+    "RainProbability": 20,
+    "SnowProbability": 0,
+    "IceProbability": 0,
+    "TotalLiquid": {
+      "Value": 0,
+      "Unit": "in",
+      "UnitType": 1
+    },
+    "Rain": {
+      "Value": 0,
+      "Unit": "in",
+      "UnitType": 1
+    },
+    "Snow": {
+      "Value": 0,
+      "Unit": "in",
+      "UnitType": 1
+    },
+    "Ice": {
+      "Value": 0,
+      "Unit": "in",
+      "UnitType": 1
+    },
+    "CloudCover": 99,
+    "Evapotranspiration": {
+      "Value": 0,
+      "Unit": "in",
+      "UnitType": 1
+    },
+    "SolarIrradiance": {
+      "Value": 0,
+      "Unit": "W/m²",
+      "UnitType": 33
+    },
+    "AccuLumenBrightnessIndex": 0,
+    "MobileLink": "http://www.accuweather.com/en/th/bangkok/318849/hourly-weather-forecast/318849?day=2&hbhhour=3&lang=en-us",
+    "Link": "http://www.accuweather.com/en/th/bangkok/318849/hourly-weather-forecast/318849?day=2&hbhhour=3&lang=en-us"
+  },
+  {
+    "DateTime": "2025-08-17T04:00:00+07:00",
+    "EpochDateTime": 1755378000,
+    "WeatherIcon": 7,
+    "IconPhrase": "Cloudy",
+    "HasPrecipitation": false,
+    "IsDaylight": false,
+    "Temperature": {
+      "Value": 80,
+      "Unit": "F",
+      "UnitType": 18
+    },
+    "RealFeelTemperature": {
+      "Value": 85,
+      "Unit": "F",
+      "UnitType": 18,
+      "Phrase": "Very Warm"
+    },
+    "RealFeelTemperatureShade": {
+      "Value": 85,
+      "Unit": "F",
+      "UnitType": 18,
+      "Phrase": "Very Warm"
+    },
+    "WetBulbTemperature": {
+      "Value": 75,
+      "Unit": "F",
+      "UnitType": 18
+    },
+    "WetBulbGlobeTemperature": {
+      "Value": 77,
+      "Unit": "F",
+      "UnitType": 18
+    },
+    "DewPoint": {
+      "Value": 73,
+      "Unit": "F",
+      "UnitType": 18
+    },
+    "Wind": {
+      "Speed": {
+        "Value": 5.8,
+        "Unit": "mi/h",
+        "UnitType": 9
+      },
+      "Direction": {
+        "Degrees": 219,
+        "Localized": "SW",
+        "English": "SW"
+      }
+    },
+    "WindGust": {
+      "Speed": {
+        "Value": 6.9,
+        "Unit": "mi/h",
+        "UnitType": 9
+      }
+    },
+    "RelativeHumidity": 79,
+    "IndoorRelativeHumidity": 79,
+    "Visibility": {
+      "Value": 5,
+      "Unit": "mi",
+      "UnitType": 2
+    },
+    "Ceiling": {
+      "Value": 6500,
+      "Unit": "ft",
+      "UnitType": 0
+    },
+    "UVIndex": 0,
+    "UVIndexFloat": 0,
+    "UVIndexText": "Low",
+    "PrecipitationProbability": 20,
+    "ThunderstormProbability": 4,
+    "RainProbability": 20,
+    "SnowProbability": 0,
+    "IceProbability": 0,
+    "TotalLiquid": {
+      "Value": 0,
+      "Unit": "in",
+      "UnitType": 1
+    },
+    "Rain": {
+      "Value": 0,
+      "Unit": "in",
+      "UnitType": 1
+    },
+    "Snow": {
+      "Value": 0,
+      "Unit": "in",
+      "UnitType": 1
+    },
+    "Ice": {
+      "Value": 0,
+      "Unit": "in",
+      "UnitType": 1
+    },
+    "CloudCover": 99,
+    "Evapotranspiration": {
+      "Value": 0,
+      "Unit": "in",
+      "UnitType": 1
+    },
+    "SolarIrradiance": {
+      "Value": 0,
+      "Unit": "W/m²",
+      "UnitType": 33
+    },
+    "AccuLumenBrightnessIndex": 0,
+    "MobileLink": "http://www.accuweather.com/en/th/bangkok/318849/hourly-weather-forecast/318849?day=2&hbhhour=4&lang=en-us",
+    "Link": "http://www.accuweather.com/en/th/bangkok/318849/hourly-weather-forecast/318849?day=2&hbhhour=4&lang=en-us"
+  },
+  {
+    "DateTime": "2025-08-17T05:00:00+07:00",
+    "EpochDateTime": 1755381600,
+    "WeatherIcon": 7,
+    "IconPhrase": "Cloudy",
+    "HasPrecipitation": false,
+    "IsDaylight": false,
+    "Temperature": {
+      "Value": 79,
+      "Unit": "F",
+      "UnitType": 18
+    },
+    "RealFeelTemperature": {
+      "Value": 85,
+      "Unit": "F",
+      "UnitType": 18,
+      "Phrase": "Very Warm"
+    },
+    "RealFeelTemperatureShade": {
+      "Value": 85,
+      "Unit": "F",
+      "UnitType": 18,
+      "Phrase": "Very Warm"
+    },
+    "WetBulbTemperature": {
+      "Value": 75,
+      "Unit": "F",
+      "UnitType": 18
+    },
+    "WetBulbGlobeTemperature": {
+      "Value": 77,
+      "Unit": "F",
+      "UnitType": 18
+    },
+    "DewPoint": {
+      "Value": 73,
+      "Unit": "F",
+      "UnitType": 18
+    },
+    "Wind": {
+      "Speed": {
+        "Value": 5.8,
+        "Unit": "mi/h",
+        "UnitType": 9
+      },
+      "Direction": {
+        "Degrees": 216,
+        "Localized": "SW",
+        "English": "SW"
+      }
+    },
+    "WindGust": {
+      "Speed": {
+        "Value": 6.9,
+        "Unit": "mi/h",
+        "UnitType": 9
+      }
+    },
+    "RelativeHumidity": 80,
+    "IndoorRelativeHumidity": 80,
+    "Visibility": {
+      "Value": 5,
+      "Unit": "mi",
+      "UnitType": 2
+    },
+    "Ceiling": {
+      "Value": 6500,
+      "Unit": "ft",
+      "UnitType": 0
+    },
+    "UVIndex": 0,
+    "UVIndexFloat": 0,
+    "UVIndexText": "Low",
+    "PrecipitationProbability": 20,
+    "ThunderstormProbability": 4,
+    "RainProbability": 20,
+    "SnowProbability": 0,
+    "IceProbability": 0,
+    "TotalLiquid": {
+      "Value": 0,
+      "Unit": "in",
+      "UnitType": 1
+    },
+    "Rain": {
+      "Value": 0,
+      "Unit": "in",
+      "UnitType": 1
+    },
+    "Snow": {
+      "Value": 0,
+      "Unit": "in",
+      "UnitType": 1
+    },
+    "Ice": {
+      "Value": 0,
+      "Unit": "in",
+      "UnitType": 1
+    },
+    "CloudCover": 99,
+    "Evapotranspiration": {
+      "Value": 0,
+      "Unit": "in",
+      "UnitType": 1
+    },
+    "SolarIrradiance": {
+      "Value": 0,
+      "Unit": "W/m²",
+      "UnitType": 33
+    },
+    "AccuLumenBrightnessIndex": 0,
+    "MobileLink": "http://www.accuweather.com/en/th/bangkok/318849/hourly-weather-forecast/318849?day=2&hbhhour=5&lang=en-us",
+    "Link": "http://www.accuweather.com/en/th/bangkok/318849/hourly-weather-forecast/318849?day=2&hbhhour=5&lang=en-us"
+  },
+  null,
+  null,
+  null,
+  null,
+  null,
+  null,
+  null,
+  null,
+  null,
+  null,
+  null,
+  {
+    "DateTime": "2025-08-16T17:00:00+07:00",
+    "EpochDateTime": 1755338400,
+    "WeatherIcon": 7,
+    "IconPhrase": "Cloudy",
+    "HasPrecipitation": false,
+    "IsDaylight": true,
+    "Temperature": {
+      "Value": 85,
+      "Unit": "F",
+      "UnitType": 18
+    },
+    "RealFeelTemperature": {
+      "Value": 87,
+      "Unit": "F",
+      "UnitType": 18,
+      "Phrase": "Very Warm"
+    },
+    "RealFeelTemperatureShade": {
+      "Value": 87,
+      "Unit": "F",
+      "UnitType": 18,
+      "Phrase": "Very Warm"
+    },
+    "WetBulbTemperature": {
+      "Value": 76,
+      "Unit": "F",
+      "UnitType": 18
+    },
+    "WetBulbGlobeTemperature": {
+      "Value": 79,
+      "Unit": "F",
+      "UnitType": 18
+    },
+    "DewPoint": {
+      "Value": 72,
+      "Unit": "F",
+      "UnitType": 18
+    },
+    "Wind": {
+      "Speed": {
+        "Value": 16.1,
+        "Unit": "mi/h",
+        "UnitType": 9
+      },
+      "Direction": {
+        "Degrees": 228,
+        "Localized": "SW",
+        "English": "SW"
+      }
+    },
+    "WindGust": {
+      "Speed": {
+        "Value": 17.3,
+        "Unit": "mi/h",
+        "UnitType": 9
+      }
+    },
+    "RelativeHumidity": 65,
+    "IndoorRelativeHumidity": 65,
+    "Visibility": {
+      "Value": 5,
+      "Unit": "mi",
+      "UnitType": 2
+    },
+    "Ceiling": {
+      "Value": 6500,
+      "Unit": "ft",
+      "UnitType": 0
+    },
+    "UVIndex": 0,
+    "UVIndexFloat": 0.4,
+    "UVIndexText": "Low",
+    "PrecipitationProbability": 49,
+    "ThunderstormProbability": 11,
+    "RainProbability": 49,
+    "SnowProbability": 0,
+    "IceProbability": 0,
+    "TotalLiquid": {
+      "Value": 0,
+      "Unit": "in",
+      "UnitType": 1
+    },
+    "Rain": {
+      "Value": 0,
+      "Unit": "in",
+      "UnitType": 1
+    },
+    "Snow": {
+      "Value": 0,
+      "Unit": "in",
+      "UnitType": 1
+    },
+    "Ice": {
+      "Value": 0,
+      "Unit": "in",
+      "UnitType": 1
+    },
+    "CloudCover": 100,
+    "Evapotranspiration": {
+      "Value": 0.01,
+      "Unit": "in",
+      "UnitType": 1
+    },
+    "SolarIrradiance": {
+      "Value": 16.4,
+      "Unit": "W/m²",
+      "UnitType": 33
+    },
+    "AccuLumenBrightnessIndex": 1,
+    "MobileLink": "http://www.accuweather.com/en/th/bangkok/318849/hourly-weather-forecast/318849?day=1&hbhhour=17&lang=en-us",
+    "Link": "http://www.accuweather.com/en/th/bangkok/318849/hourly-weather-forecast/318849?day=1&hbhhour=17&lang=en-us"
+  },
+  {
+    "DateTime": "2025-08-16T18:00:00+07:00",
+    "EpochDateTime": 1755342000,
+    "WeatherIcon": 18,
+    "IconPhrase": "Rain",
+    "HasPrecipitation": true,
+    "PrecipitationType": "Rain",
+    "PrecipitationIntensity": "Heavy",
+    "IsDaylight": true,
+    "Temperature": {
+      "Value": 83,
+      "Unit": "F",
+      "UnitType": 18
+    },
+    "RealFeelTemperature": {
+      "Value": 83,
+      "Unit": "F",
+      "UnitType": 18,
+      "Phrase": "Very Warm"
+    },
+    "RealFeelTemperatureShade": {
+      "Value": 83,
+      "Unit": "F",
+      "UnitType": 18,
+      "Phrase": "Very Warm"
+    },
+    "WetBulbTemperature": {
+      "Value": 78,
+      "Unit": "F",
+      "UnitType": 18
+    },
+    "WetBulbGlobeTemperature": {
+      "Value": 79,
+      "Unit": "F",
+      "UnitType": 18
+    },
+    "DewPoint": {
+      "Value": 75,
+      "Unit": "F",
+      "UnitType": 18
+    },
+    "Wind": {
+      "Speed": {
+        "Value": 15,
+        "Unit": "mi/h",
+        "UnitType": 9
+      },
+      "Direction": {
+        "Degrees": 230,
+        "Localized": "SW",
+        "English": "SW"
+      }
+    },
+    "WindGust": {
+      "Speed": {
+        "Value": 16.1,
+        "Unit": "mi/h",
+        "UnitType": 9
+      }
+    },
+    "RelativeHumidity": 78,
+    "IndoorRelativeHumidity": 78,
+    "Visibility": {
+      "Value": 2,
+      "Unit": "mi",
+      "UnitType": 2
+    },
+    "Ceiling": {
+      "Value": 2000,
+      "Unit": "ft",
+      "UnitType": 0
+    },
+    "UVIndex": 0,
+    "UVIndexFloat": 0,
+    "UVIndexText": "Low",
+    "PrecipitationProbability": 65,
+    "ThunderstormProbability": 15,
+    "RainProbability": 65,
+    "SnowProbability": 0,
+    "IceProbability": 0,
+    "TotalLiquid": {
+      "Value": 0.36,
+      "Unit": "in",
+      "UnitType": 1
+    },
+    "Rain": {
+      "Value": 0.36,
+      "Unit": "in",
+      "UnitType": 1
+    },
+    "Snow": {
+      "Value": 0,
+      "Unit": "in",
+      "UnitType": 1
+    },
+    "Ice": {
+      "Value": 0,
+      "Unit": "in",
+      "UnitType": 1
+    },
+    "CloudCover": 100,
+    "Evapotranspiration": {
+      "Value": 0.01,
+      "Unit": "in",
+      "UnitType": 1
+    },
+    "SolarIrradiance": {
+      "Value": 3,
+      "Unit": "W/m²",
+      "UnitType": 33
+    },
+    "AccuLumenBrightnessIndex": 0,
+    "MobileLink": "http://www.accuweather.com/en/th/bangkok/318849/hourly-weather-forecast/318849?day=1&hbhhour=18&lang=en-us",
+    "Link": "http://www.accuweather.com/en/th/bangkok/318849/hourly-weather-forecast/318849?day=1&hbhhour=18&lang=en-us"
+  },
+  {
+    "DateTime": "2025-08-16T19:00:00+07:00",
+    "EpochDateTime": 1755345600,
+    "WeatherIcon": 18,
+    "IconPhrase": "Rain",
+    "HasPrecipitation": true,
+    "PrecipitationType": "Rain",
+    "PrecipitationIntensity": "Light",
+    "IsDaylight": false,
+    "Temperature": {
+      "Value": 84,
+      "Unit": "F",
+      "UnitType": 18
+    },
+    "RealFeelTemperature": {
+      "Value": 84,
+      "Unit": "F",
+      "UnitType": 18,
+      "Phrase": "Very Warm"
+    },
+    "RealFeelTemperatureShade": {
+      "Value": 84,
+      "Unit": "F",
+      "UnitType": 18,
+      "Phrase": "Very Warm"
+    },
+    "WetBulbTemperature": {
+      "Value": 76,
+      "Unit": "F",
+      "UnitType": 18
+    },
+    "WetBulbGlobeTemperature": {
+      "Value": 79,
+      "Unit": "F",
+      "UnitType": 18
+    },
+    "DewPoint": {
+      "Value": 72,
+      "Unit": "F",
+      "UnitType": 18
+    },
+    "Wind": {
+      "Speed": {
+        "Value": 11.5,
+        "Unit": "mi/h",
+        "UnitType": 9
+      },
+      "Direction": {
+        "Degrees": 216,
+        "Localized": "SW",
+        "English": "SW"
+      }
+    },
+    "WindGust": {
+      "Speed": {
+        "Value": 19.6,
+        "Unit": "mi/h",
+        "UnitType": 9
+      }
+    },
+    "RelativeHumidity": 67,
+    "IndoorRelativeHumidity": 67,
+    "Visibility": {
+      "Value": 4,
+      "Unit": "mi",
+      "UnitType": 2
+    },
+    "Ceiling": {
+      "Value": 6500,
+      "Unit": "ft",
+      "UnitType": 0
+    },
+    "UVIndex": 0,
+    "UVIndexFloat": 0,
+    "UVIndexText": "Low",
+    "PrecipitationProbability": 56,
+    "ThunderstormProbability": 13,
+    "RainProbability": 56,
+    "SnowProbability": 0,
+    "IceProbability": 0,
+    "TotalLiquid": {
+      "Value": 0.02,
+      "Unit": "in",
+      "UnitType": 1
+    },
+    "Rain": {
+      "Value": 0.02,
+      "Unit": "in",
+      "UnitType": 1
+    },
+    "Snow": {
+      "Value": 0,
+      "Unit": "in",
+      "UnitType": 1
+    },
+    "Ice": {
+      "Value": 0,
+      "Unit": "in",
+      "UnitType": 1
+    },
+    "CloudCover": 100,
+    "Evapotranspiration": {
+      "Value": 0,
+      "Unit": "in",
+      "UnitType": 1
+    },
+    "SolarIrradiance": {
+      "Value": 0,
+      "Unit": "W/m²",
+      "UnitType": 33
+    },
+    "AccuLumenBrightnessIndex": 0,
+    "MobileLink": "http://www.accuweather.com/en/th/bangkok/318849/hourly-weather-forecast/318849?day=1&hbhhour=19&lang=en-us",
+    "Link": "http://www.accuweather.com/en/th/bangkok/318849/hourly-weather-forecast/318849?day=1&hbhhour=19&lang=en-us"
+  },
+  {
+    "DateTime": "2025-08-16T20:00:00+07:00",
+    "EpochDateTime": 1755349200,
+    "WeatherIcon": 12,
+    "IconPhrase": "Showers",
+    "HasPrecipitation": true,
+    "PrecipitationType": "Rain",
+    "PrecipitationIntensity": "Light",
+    "IsDaylight": false,
+    "Temperature": {
+      "Value": 83,
+      "Unit": "F",
+      "UnitType": 18
+    },
+    "RealFeelTemperature": {
+      "Value": 84,
+      "Unit": "F",
+      "UnitType": 18,
+      "Phrase": "Very Warm"
+    },
+    "RealFeelTemperatureShade": {
+      "Value": 84,
+      "Unit": "F",
+      "UnitType": 18,
+      "Phrase": "Very Warm"
+    },
+    "WetBulbTemperature": {
+      "Value": 76,
+      "Unit": "F",
+      "UnitType": 18
+    },
+    "WetBulbGlobeTemperature": {
+      "Value": 78,
+      "Unit": "F",
+      "UnitType": 18
+    },
+    "DewPoint": {
+      "Value": 72,
+      "Unit": "F",
+      "UnitType": 18
+    },
+    "Wind": {
+      "Speed": {
+        "Value": 10.4,
+        "Unit": "mi/h",
+        "UnitType": 9
+      },
+      "Direction": {
+        "Degrees": 212,
+        "Localized": "SSW",
+        "English": "SSW"
+      }
+    },
+    "WindGust": {
+      "Speed": {
+        "Value": 11.5,
+        "Unit": "mi/h",
+        "UnitType": 9
+      }
+    },
+    "RelativeHumidity": 69,
+    "IndoorRelativeHumidity": 69,
+    "Visibility": {
+      "Value": 4,
+      "Unit": "mi",
+      "UnitType": 2
+    },
+    "Ceiling": {
+      "Value": 6500,
+      "Unit": "ft",
+      "UnitType": 0
+    },
+    "UVIndex": 0,
+    "UVIndexFloat": 0,
+    "UVIndexText": "Low",
+    "PrecipitationProbability": 52,
+    "ThunderstormProbability": 12,
+    "RainProbability": 52,
+    "SnowProbability": 0,
+    "IceProbability": 0,
+    "TotalLiquid": {
+      "Value": 0.01,
+      "Unit": "in",
+      "UnitType": 1
+    },
+    "Rain": {
+      "Value": 0.01,
+      "Unit": "in",
+      "UnitType": 1
+    },
+    "Snow": {
+      "Value": 0,
+      "Unit": "in",
+      "UnitType": 1
+    },
+    "Ice": {
+      "Value": 0,
+      "Unit": "in",
+      "UnitType": 1
+    },
+    "CloudCover": 100,
+    "Evapotranspiration": {
+      "Value": 0,
+      "Unit": "in",
+      "UnitType": 1
+    },
+    "SolarIrradiance": {
+      "Value": 0,
+      "Unit": "W/m²",
+      "UnitType": 33
+    },
+    "AccuLumenBrightnessIndex": 0,
+    "MobileLink": "http://www.accuweather.com/en/th/bangkok/318849/hourly-weather-forecast/318849?day=1&hbhhour=20&lang=en-us",
+    "Link": "http://www.accuweather.com/en/th/bangkok/318849/hourly-weather-forecast/318849?day=1&hbhhour=20&lang=en-us"
+  },
+  {
+    "DateTime": "2025-08-16T21:00:00+07:00",
+    "EpochDateTime": 1755352800,
+    "WeatherIcon": 7,
+    "IconPhrase": "Cloudy",
+    "HasPrecipitation": false,
+    "IsDaylight": false,
+    "Temperature": {
+      "Value": 82,
+      "Unit": "F",
+      "UnitType": 18
+    },
+    "RealFeelTemperature": {
+      "Value": 86,
+      "Unit": "F",
+      "UnitType": 18,
+      "Phrase": "Very Warm"
+    },
+    "RealFeelTemperatureShade": {
+      "Value": 86,
+      "Unit": "F",
+      "UnitType": 18,
+      "Phrase": "Very Warm"
+    },
+    "WetBulbTemperature": {
+      "Value": 76,
+      "Unit": "F",
+      "UnitType": 18
+    },
+    "WetBulbGlobeTemperature": {
+      "Value": 78,
+      "Unit": "F",
+      "UnitType": 18
+    },
+    "DewPoint": {
+      "Value": 72,
+      "Unit": "F",
+      "UnitType": 18
+    },
+    "Wind": {
+      "Speed": {
+        "Value": 9.2,
+        "Unit": "mi/h",
+        "UnitType": 9
+      },
+      "Direction": {
+        "Degrees": 208,
+        "Localized": "SSW",
+        "English": "SSW"
+      }
+    },
+    "WindGust": {
+      "Speed": {
+        "Value": 10.4,
+        "Unit": "mi/h",
+        "UnitType": 9
+      }
+    },
+    "RelativeHumidity": 71,
+    "IndoorRelativeHumidity": 71,
+    "Visibility": {
+      "Value": 5,
+      "Unit": "mi",
+      "UnitType": 2
+    },
+    "Ceiling": {
+      "Value": 6600,
+      "Unit": "ft",
+      "UnitType": 0
+    },
+    "UVIndex": 0,
+    "UVIndexFloat": 0,
+    "UVIndexText": "Low",
+    "PrecipitationProbability": 49,
+    "ThunderstormProbability": 11,
+    "RainProbability": 49,
+    "SnowProbability": 0,
+    "IceProbability": 0,
+    "TotalLiquid": {
+      "Value": 0,
+      "Unit": "in",
+      "UnitType": 1
+    },
+    "Rain": {
+      "Value": 0,
+      "Unit": "in",
+      "UnitType": 1
+    },
+    "Snow": {
+      "Value": 0,
+      "Unit": "in",
+      "UnitType": 1
+    },
+    "Ice": {
+      "Value": 0,
+      "Unit": "in",
+      "UnitType": 1
+    },
+    "CloudCover": 100,
+    "Evapotranspiration": {
+      "Value": 0,
+      "Unit": "in",
+      "UnitType": 1
+    },
+    "SolarIrradiance": {
+      "Value": 0,
+      "Unit": "W/m²",
+      "UnitType": 33
+    },
+    "AccuLumenBrightnessIndex": 0,
+    "MobileLink": "http://www.accuweather.com/en/th/bangkok/318849/hourly-weather-forecast/318849?day=1&hbhhour=21&lang=en-us",
+    "Link": "http://www.accuweather.com/en/th/bangkok/318849/hourly-weather-forecast/318849?day=1&hbhhour=21&lang=en-us"
+  },
+  {
+    "DateTime": "2025-08-16T22:00:00+07:00",
+    "EpochDateTime": 1755356400,
+    "WeatherIcon": 7,
+    "IconPhrase": "Cloudy",
+    "HasPrecipitation": false,
+    "IsDaylight": false,
+    "Temperature": {
+      "Value": 82,
+      "Unit": "F",
+      "UnitType": 18
+    },
+    "RealFeelTemperature": {
+      "Value": 86,
+      "Unit": "F",
+      "UnitType": 18,
+      "Phrase": "Very Warm"
+    },
+    "RealFeelTemperatureShade": {
+      "Value": 86,
+      "Unit": "F",
+      "UnitType": 18,
+      "Phrase": "Very Warm"
+    },
+    "WetBulbTemperature": {
+      "Value": 75,
+      "Unit": "F",
+      "UnitType": 18
+    },
+    "WetBulbGlobeTemperature": {
+      "Value": 78,
+      "Unit": "F",
+      "UnitType": 18
+    },
+    "DewPoint": {
+      "Value": 72,
+      "Unit": "F",
+      "UnitType": 18
+    },
+    "Wind": {
+      "Speed": {
+        "Value": 8.1,
+        "Unit": "mi/h",
+        "UnitType": 9
+      },
+      "Direction": {
+        "Degrees": 205,
+        "Localized": "SSW",
+        "English": "SSW"
+      }
+    },
+    "WindGust": {
+      "Speed": {
+        "Value": 9.2,
+        "Unit": "mi/h",
+        "UnitType": 9
+      }
+    },
+    "RelativeHumidity": 71,
+    "IndoorRelativeHumidity": 71,
+    "Visibility": {
+      "Value": 5,
+      "Unit": "mi",
+      "UnitType": 2
+    },
+    "Ceiling": {
+      "Value": 6600,
+      "Unit": "ft",
+      "UnitType": 0
+    },
+    "UVIndex": 0,
+    "UVIndexFloat": 0,
+    "UVIndexText": "Low",
+    "PrecipitationProbability": 47,
+    "ThunderstormProbability": 11,
+    "RainProbability": 47,
+    "SnowProbability": 0,
+    "IceProbability": 0,
+    "TotalLiquid": {
+      "Value": 0,
+      "Unit": "in",
+      "UnitType": 1
+    },
+    "Rain": {
+      "Value": 0,
+      "Unit": "in",
+      "UnitType": 1
+    },
+    "Snow": {
+      "Value": 0,
+      "Unit": "in",
+      "UnitType": 1
+    },
+    "Ice": {
+      "Value": 0,
+      "Unit": "in",
+      "UnitType": 1
+    },
+    "CloudCover": 100,
+    "Evapotranspiration": {
+      "Value": 0,
+      "Unit": "in",
+      "UnitType": 1
+    },
+    "SolarIrradiance": {
+      "Value": 0,
+      "Unit": "W/m²",
+      "UnitType": 33
+    },
+    "AccuLumenBrightnessIndex": 0,
+    "MobileLink": "http://www.accuweather.com/en/th/bangkok/318849/hourly-weather-forecast/318849?day=1&hbhhour=22&lang=en-us",
+    "Link": "http://www.accuweather.com/en/th/bangkok/318849/hourly-weather-forecast/318849?day=1&hbhhour=22&lang=en-us"
+  },
+  {
+    "DateTime": "2025-08-16T23:00:00+07:00",
+    "EpochDateTime": 1755360000,
+    "WeatherIcon": 18,
+    "IconPhrase": "Rain",
+    "HasPrecipitation": true,
+    "PrecipitationType": "Rain",
+    "PrecipitationIntensity": "Light",
+    "IsDaylight": false,
+    "Temperature": {
+      "Value": 82,
+      "Unit": "F",
+      "UnitType": 18
+    },
+    "RealFeelTemperature": {
+      "Value": 84,
+      "Unit": "F",
+      "UnitType": 18,
+      "Phrase": "Very Warm"
+    },
+    "RealFeelTemperatureShade": {
+      "Value": 84,
+      "Unit": "F",
+      "UnitType": 18,
+      "Phrase": "Very Warm"
+    },
+    "WetBulbTemperature": {
+      "Value": 75,
+      "Unit": "F",
+      "UnitType": 18
+    },
+    "WetBulbGlobeTemperature": {
+      "Value": 78,
+      "Unit": "F",
+      "UnitType": 18
+    },
+    "DewPoint": {
+      "Value": 72,
+      "Unit": "F",
+      "UnitType": 18
+    },
+    "Wind": {
+      "Speed": {
+        "Value": 8.1,
+        "Unit": "mi/h",
+        "UnitType": 9
+      },
+      "Direction": {
+        "Degrees": 202,
+        "Localized": "SSW",
+        "English": "SSW"
+      }
+    },
+    "WindGust": {
+      "Speed": {
+        "Value": 9.2,
+        "Unit": "mi/h",
+        "UnitType": 9
+      }
+    },
+    "RelativeHumidity": 73,
+    "IndoorRelativeHumidity": 73,
+    "Visibility": {
+      "Value": 4,
+      "Unit": "mi",
+      "UnitType": 2
+    },
+    "Ceiling": {
+      "Value": 6600,
+      "Unit": "ft",
+      "UnitType": 0
+    },
+    "UVIndex": 0,
+    "UVIndexFloat": 0,
+    "UVIndexText": "Low",
+    "PrecipitationProbability": 51,
+    "ThunderstormProbability": 12,
+    "RainProbability": 51,
+    "SnowProbability": 0,
+    "IceProbability": 0,
+    "TotalLiquid": {
+      "Value": 0.01,
+      "Unit": "in",
+      "UnitType": 1
+    },
+    "Rain": {
+      "Value": 0.01,
+      "Unit": "in",
+      "UnitType": 1
+    },
+    "Snow": {
+      "Value": 0,
+      "Unit": "in",
+      "UnitType": 1
+    },
+    "Ice": {
+      "Value": 0,
+      "Unit": "in",
+      "UnitType": 1
+    },
+    "CloudCover": 100,
+    "Evapotranspiration": {
+      "Value": 0,
+      "Unit": "in",
+      "UnitType": 1
+    },
+    "SolarIrradiance": {
+      "Value": 0,
+      "Unit": "W/m²",
+      "UnitType": 33
+    },
+    "AccuLumenBrightnessIndex": 0,
+    "MobileLink": "http://www.accuweather.com/en/th/bangkok/318849/hourly-weather-forecast/318849?day=1&hbhhour=23&lang=en-us",
+    "Link": "http://www.accuweather.com/en/th/bangkok/318849/hourly-weather-forecast/318849?day=1&hbhhour=23&lang=en-us"
+  }
+]
